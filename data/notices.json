@@ -1,0 +1,541 @@
+{
+  "generated_at": "2026-07-14T22:16:10+00:00",
+  "source_count": 29,
+  "ok_count": 10,
+  "failed_sources": [],
+  "item_count": 27,
+  "items": [
+    {
+      "uid": "40f34b863a2b96c6",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "2026학년도 후기 전 교육과정 해외이수자 특별전형 최종합격자 등록금 납부 안내(세종캠퍼스)",
+      "link": "https://oku.korea.ac.kr/sejong/index.do",
+      "date": "2026-07-03",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "5a26a88f968ee0eb",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "2027학년도 전기 전교육과정 해외이수자 특별전형 원서접수 안내(세종캠퍼스)",
+      "link": "https://oku.korea.ac.kr/sejong/index.do",
+      "date": "2026-07-01",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "95f3abac433795e7",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "2027학년도 재외국민(정원외2%)/새터민 전형 원서접수 안내(세종캠퍼스)",
+      "link": "https://oku.korea.ac.kr/sejong/index.do",
+      "date": "2026-07-01",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "3f0bf19e48598b52",
+      "source_id": "dgist_adm",
+      "org": "DGIST",
+      "org_type": "univ",
+      "title": "2027학년도 코엑스 '4개 과학기술원 공동 입학설명회'(2026.7.23.~25.) 안내",
+      "link": "https://www.dgist.ac.kr/adm/",
+      "date": "2026-06-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "97afa930e5796f0c",
+      "source_id": "dgist_adm",
+      "org": "DGIST",
+      "org_type": "univ",
+      "title": "2027학년도 학사과정 조기진학을 위한 '과학영재 선발 제도' 안내",
+      "link": "https://www.dgist.ac.kr/adm/",
+      "date": "2026-06-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "bef4a90135d4f71d",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "필리핀 PSHS-MC 초청 국제공동연구",
+      "link": "https://ksa.hs.kr/",
+      "date": "2026-06-28",
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "725f8b94b2ef6961",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "2026학년도 3학년 캠핑체험프로그램",
+      "link": "https://ksa.hs.kr/",
+      "date": "2026-06-26",
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "717a2aeea4e17581",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "2026학년도 1학년 숲길체험 프로그램",
+      "link": "https://ksa.hs.kr/",
+      "date": "2026-06-26",
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "513a0989539c8e9e",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "[전국] 대학부설 과학영재교육원 공동 온라인 선교육 지원안내",
+      "link": "https://ged.kedi.re.kr/",
+      "date": "2026-06-11",
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "5632d72ce5116d2e",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GIST, 58억 원 규모 차세대 '레이저 핵융합' 국가 연구사업 선정",
+      "link": "https://www.gist.ac.kr/",
+      "date": "2026-06-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "dd118aa8ab21bb63",
+      "source_id": "dgist_adm",
+      "org": "DGIST",
+      "org_type": "univ",
+      "title": "2027학년도 학부 모집요강 게시 안내",
+      "link": "https://www.dgist.ac.kr/adm/",
+      "date": "2026-04-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "3802af957c15e1d7",
+      "source_id": "dgist_adm",
+      "org": "DGIST",
+      "org_type": "univ",
+      "title": "2027학년도 DGIST 권역별 입학설명회 안내",
+      "link": "https://www.dgist.ac.kr/adm/",
+      "date": "2026-04-23",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "2e68d5d2ce4a3663",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2027학년도 대학 신입학생 입학전형 안내",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=167069",
+      "date": "2026-03-31",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "1050ae45d11bd1c8",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "발달기록부 등록 신청 안내",
+      "link": "https://ged.kedi.re.kr/",
+      "date": "2026-03-03",
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "01c7b1fba84cb98f",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "14세 미만 학생의 회원가입 정상화 안내",
+      "link": "https://ged.kedi.re.kr/",
+      "date": "2026-02-25",
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "9326fe0c46cb2bf1",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "56기 겨울학교 집합 장소 안내",
+      "link": "https://kbo.bioedu.kr/",
+      "date": "2025-12-24",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "62bad71e103ef0d3",
+      "source_id": "moe",
+      "org": "교육부",
+      "org_type": "gov",
+      "title": "2026년 교육부 업무계획",
+      "link": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156734914",
+      "date": "2025-12-12",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "e5469121b9666daa",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "56기 KBO 겨울학교 안내사항",
+      "link": "https://kbo.bioedu.kr/",
+      "date": "2025-12-08",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "58388e19d2dfe0f1",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2028학년도 대학 신입학생 입학전형주요 사항 안내",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=158712",
+      "date": "2025-09-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "fad358ccc1742ade",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "1차후보자 선발고사 고사장 안내",
+      "link": "https://kbo.bioedu.kr/",
+      "date": "2025-08-22",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "c3293b8c0b276bba",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "2027학년도 고려대학교 특별전형(전기) 모집요강",
+      "link": "https://oku.korea.ac.kr/oku/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "0e9ebb01acbcaf0d",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "2027학년도 고려대학교 본교방문 1:1 진로진학상담 신청 안내",
+      "link": "https://oku.korea.ac.kr/oku/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "3b2985415e9026be",
+      "source_id": "yonsei_adm",
+      "org": "연세대학교",
+      "org_type": "univ",
+      "title": "2027학년도 연세대학교 수시모집요강 안내",
+      "link": "https://admission.yonsei.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "889368047f8bd09a",
+      "source_id": "yonsei_adm",
+      "org": "연세대학교",
+      "org_type": "univ",
+      "title": "2028학년도 입학전형 시행계획",
+      "link": "https://admission.yonsei.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "2864c637b8d2e4b5",
+      "source_id": "yonsei_adm",
+      "org": "연세대학교",
+      "org_type": "univ",
+      "title": "2026년 연세대학교 지역거점설명회 신청내용 확인 (학생학부모대상)",
+      "link": "https://admission.yonsei.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "59318ea69daaee11",
+      "source_id": "yonsei_adm",
+      "org": "연세대학교",
+      "org_type": "univ",
+      "title": "논술(자연·통합) 과학 서논술형 모의 문항 안내 (해설자료 포함)",
+      "link": "https://admission.yonsei.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "f3f4fa466911e969",
+      "source_id": "msit",
+      "org": "과학기술정보통신부",
+      "org_type": "gov",
+      "title": "과기정통부와 교육부, 수학·과학 인재 양성을 위한 협업의 장(場) 펼치다",
+      "link": "https://www.msit.go.kr/bbs/view.do?mId=113&bbsSeqNo=94&nttSeqNo=3000776",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "수학",
+        "융합/기타"
+      ],
+      "category": [
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-14T22:16:10+00:00"
+    }
+  ],
+  "note": "이 데이터는 2026-07-15 기준 웹 검색으로 확인한 실제 공지 시드 데이터입니다. scraper/main.py 를 주기적으로 실행하면 이 파일이 자동 갱신됩니다."
+}

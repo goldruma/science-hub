@@ -1,0 +1,299 @@
+{
+  "_readme": "각 source의 notice_url은 실제 검색으로 확인된 공지/게시판 URL입니다. selector는 사이트 구조가 바뀌면 깨질 수 있으니 scraper/main.py --test <id> 로 주기적으로 점검하세요. default_tags는 해당 소스에서 나오는 글에 기본으로 붙는 태그이며, tagger.py가 제목 키워드를 보고 추가/보정합니다.",
+
+  "sources": [
+    {
+      "id": "kaist_ug",
+      "org": "KAIST",
+      "org_type": "univ",
+      "name": "KAIST 학부 입학처 공지사항",
+      "notice_url": "https://admission.kaist.ac.kr/undergraduate/admission/sub02",
+      "base_url": "https://admission.kaist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "kaist_grad",
+      "org": "KAIST",
+      "org_type": "univ",
+      "name": "KAIST 대학원 입학처 공지사항",
+      "notice_url": "https://admission.kaist.ac.kr/graduate",
+      "base_url": "https://admission.kaist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["입학/입시", "연구/R&E"] }
+    },
+    {
+      "id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "name": "서울대 입학본부 대학 공지사항",
+      "notice_url": "https://admission.snu.ac.kr/undergraduate/notice",
+      "base_url": "https://admission.snu.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "name": "서울대 입학본부 일반대학원 공지사항",
+      "notice_url": "https://admission.snu.ac.kr/graduate/general/notice",
+      "base_url": "https://admission.snu.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["입학/입시", "연구/R&E"] }
+    },
+    {
+      "id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "name": "포스텍 학부 입학팀 공지사항",
+      "notice_url": "https://adm-u.postech.ac.kr/admission-helper/notices/",
+      "base_url": "https://adm-u.postech.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "name": "포스텍 대학원 입학팀",
+      "notice_url": "https://adm-g.postech.ac.kr/",
+      "base_url": "https://adm-g.postech.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["입학/입시", "연구/R&E"] }
+    },
+    {
+      "id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "name": "UNIST 학부입학 공지사항",
+      "notice_url": "https://adm-u.unist.ac.kr/admission/index.do",
+      "base_url": "https://adm-u.unist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "name": "UNIST 대학원입학 공지사항",
+      "notice_url": "https://adm-g.unist.ac.kr/admg/index.do",
+      "base_url": "https://adm-g.unist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["입학/입시", "연구/R&E"] }
+    },
+    {
+      "id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "name": "GIST 대학원 입학 공지사항",
+      "notice_url": "https://ewww.gist.ac.kr/gadm/main.html",
+      "base_url": "https://ewww.gist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["입학/입시", "연구/R&E"] }
+    },
+    {
+      "id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "name": "GIST 전체 공지사항",
+      "notice_url": "https://www.gist.ac.kr/",
+      "base_url": "https://www.gist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["행사/설명회", "연구/R&E"] }
+    },
+    {
+      "id": "dgist_adm",
+      "org": "DGIST",
+      "org_type": "univ",
+      "name": "DGIST 대학입학 공지사항",
+      "notice_url": "https://www.dgist.ac.kr/adm/",
+      "base_url": "https://www.dgist.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "yonsei_adm",
+      "org": "연세대학교",
+      "org_type": "univ",
+      "name": "연세대 입학처 공지사항",
+      "notice_url": "https://admission.yonsei.ac.kr/",
+      "base_url": "https://admission.yonsei.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+    {
+      "id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "name": "고려대 입학처 공지사항",
+      "notice_url": "https://oku.korea.ac.kr/oku/index.do",
+      "base_url": "https://oku.korea.ac.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["융합/기타"], "category": ["입학/입시"] }
+    },
+
+    {
+      "id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "name": "한국과학영재학교 공지사항",
+      "notice_url": "https://ksa.hs.kr/",
+      "base_url": "https://ksa.hs.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등"], "field": ["융합/기타"], "category": ["입학/입시", "영재교육"] }
+    },
+    {
+      "id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "name": "서울과학고 공지사항",
+      "notice_url": "https://sshs.sen.hs.kr/",
+      "base_url": "https://sshs.sen.hs.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등"], "field": ["융합/기타"], "category": ["입학/입시", "영재교육"] }
+    },
+    {
+      "id": "gbs",
+      "org": "경기북과학고등학교",
+      "org_type": "gifted_school",
+      "name": "경기북과학고 공지사항",
+      "notice_url": "https://gbs-h.goeujb.kr",
+      "base_url": "https://gbs-h.goeujb.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등"], "field": ["융합/기타"], "category": ["입학/입시", "영재교육"] }
+    },
+    {
+      "id": "djshs",
+      "org": "대전과학고등학교",
+      "org_type": "gifted_school",
+      "name": "대전과학고 공지사항",
+      "notice_url": "https://djshs.djsch.kr/",
+      "base_url": "https://djshs.djsch.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등"], "field": ["융합/기타"], "category": ["입학/입시", "영재교육"] }
+    },
+
+    {
+      "id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "name": "한국과학창의재단 공지사항",
+      "notice_url": "https://www.kofac.re.kr/brd/board/386/L/menu/270",
+      "base_url": "https://www.kofac.re.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["영재교육", "행사/설명회", "정책/보도"] }
+    },
+    {
+      "id": "nrf",
+      "org": "한국연구재단",
+      "org_type": "gov",
+      "name": "한국연구재단 공지사항",
+      "notice_url": "https://www.nrf.re.kr/cms/board/general/list?menu_no=53",
+      "base_url": "https://www.nrf.re.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["연구/R&E", "정책/보도"] }
+    },
+    {
+      "id": "moe",
+      "org": "교육부",
+      "org_type": "gov",
+      "name": "교육부 보도자료",
+      "notice_url": "https://www.moe.go.kr/boardCnts/listRenew.do?boardID=294&m=020402&s=moe",
+      "base_url": "https://www.moe.go.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["정책/보도"] }
+    },
+    {
+      "id": "msit",
+      "org": "과학기술정보통신부",
+      "org_type": "gov",
+      "name": "과학기술정보통신부 보도자료",
+      "notice_url": "https://www.msit.go.kr/bbs/list.do?sCode=user&mId=307&mPid=208",
+      "base_url": "https://www.msit.go.kr",
+      "type": "html",
+      "default_tags": { "grade": ["전체"], "field": ["융합/기타"], "category": ["정책/보도"] }
+    },
+    {
+      "id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "name": "GED 공지사항",
+      "notice_url": "https://ged.kedi.re.kr/",
+      "base_url": "https://ged.kedi.re.kr",
+      "type": "html",
+      "default_tags": { "grade": ["초등", "중등"], "field": ["융합/기타"], "category": ["영재교육"] }
+    },
+    {
+      "id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "name": "서울 융합과학교육원(영재교육원) 공지사항",
+      "notice_url": "https://ssei.sen.go.kr/",
+      "base_url": "https://ssei.sen.go.kr",
+      "type": "html",
+      "default_tags": { "grade": ["초등", "중등"], "field": ["융합/기타"], "category": ["영재교육"] }
+    },
+
+    {
+      "id": "kmo",
+      "org": "한국수학올림피아드(KMO)·대한수학회",
+      "org_type": "olympiad",
+      "name": "KMO 공지사항",
+      "notice_url": "https://www.kmo.or.kr/",
+      "base_url": "https://www.kmo.or.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등", "고등"], "field": ["수학"], "category": ["올림피아드/대회"] }
+    },
+    {
+      "id": "kjmo",
+      "org": "한국주니어수학올림피아드(KJMO)",
+      "org_type": "olympiad",
+      "name": "KJMO 공지사항",
+      "notice_url": "https://www.kms.or.kr/kjmo/",
+      "base_url": "https://www.kms.or.kr",
+      "type": "html",
+      "default_tags": { "grade": ["초등", "중등"], "field": ["수학"], "category": ["올림피아드/대회"] }
+    },
+    {
+      "id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "name": "KPhO 공지사항",
+      "notice_url": "https://newkpho.kps.or.kr/",
+      "base_url": "https://newkpho.kps.or.kr",
+      "type": "html",
+      "default_tags": { "grade": ["중등", "고등"], "field": ["물리"], "category": ["올림피아드/대회"] }
+    },
+    {
+      "id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "name": "KChO 공지사항",
+      "notice_url": "https://olympiad.kchem.org/",
+      "base_url": "https://olympiad.kchem.org",
+      "type": "html",
+      "default_tags": { "grade": ["중등", "고등"], "field": ["화학"], "category": ["올림피아드/대회"] }
+    },
+    {
+      "id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "name": "KBO 공지사항",
+      "notice_url": "https://kbo.bioedu.kr/",
+      "base_url": "https://kbo.bioedu.kr",
+      "type": "html",
+      "default_tags": { "grade": ["고등"], "field": ["생명과학"], "category": ["올림피아드/대회"] }
+    },
+    {
+      "id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "name": "KOI 공지사항",
+      "notice_url": "https://koi.or.kr/",
+      "base_url": "https://koi.or.kr",
+      "type": "html",
+      "default_tags": { "grade": ["초등", "중등", "고등"], "field": ["정보/컴퓨터"], "category": ["올림피아드/대회"] }
+    }
+  ]
+}
