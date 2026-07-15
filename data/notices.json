@@ -1,10 +1,217 @@
 {
-  "generated_at": "2026-07-14T22:16:10+00:00",
+  "generated_at": "2026-07-15T14:12:51+00:00",
   "source_count": 29,
-  "ok_count": 10,
-  "failed_sources": [],
-  "item_count": 27,
+  "ok_count": 17,
+  "failed_sources": [
+    "kaist_ug",
+    "kaist_grad",
+    "dgist_adm",
+    "yonsei_adm",
+    "sshs",
+    "gbs",
+    "djshs",
+    "nrf",
+    "moe",
+    "msit",
+    "kmo",
+    "kjmo"
+  ],
+  "item_count": 242,
   "items": [
+    {
+      "uid": "481c6d7005f72347",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "｢2026년 교원양성기관 교육과정 개발 지원 사업｣ 서류평가 결과 및 발표평가 대상 기관 안내",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61946?page=1",
+      "date": "2026-07-14",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "f3264f743d693e8f",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 KASA 우주항공 학술 경연대회 참가자 모집 안내(중·고교부, 대학부)",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61934?page=1",
+      "date": "2026-07-13",
+      "grade": [
+        "고등",
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "4069d8801f144e5d",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 청소년 과학탐구반(YSC) 선정팀 발표",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61925?page=1",
+      "date": "2026-07-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "ea0cbc8ef3900309",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "[원서접수] 2026학년도 GIST 대학원 가을학기 특별전형 (원서... 2026.7.9.(목)~7.15.(수)까지 2026학년도 GIST대학원 가을학기 특별전형 원서접수가 진행됩니다. ☞ 원서접수 바로가... 2026-07 03",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=222174",
+      "date": "2026-07-09",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "ac491739080788bc",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "‘지역 이공계 대학생 기초역량 강화 지원 사업 고도화 및 중장기 전략 수립 연구’ 수행기관 선정결과 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61922?page=1",
+      "date": "2026-07-09",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "b79e4076f2354583",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 디지털새싹 사업(새싹C형) 주관기관 선정 결과 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61887?page=1",
+      "date": "2026-07-08",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "787a1e55bddfd667",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "2026년도 한국정보올림피아드 2차 대회 응시자 안내사항 안내",
+      "link": "https://koi.or.kr/notice/2026/07/08/koi-2026-contest2-contestant-manual.html",
+      "date": "2026-07-08",
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
+    },
+    {
+      "uid": "2c667c04de9ddecd",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년도 차세대 공학자 양성사업 주관기관(사업단/지원단) 선정결과 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61854?page=1",
+      "date": "2026-07-06",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "836b01343a1ad7ef",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년도 지역 이공계 대학생 기초역량 강화 지원 사업 주관기관 선정결과 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61846?page=1",
+      "date": "2026-07-03",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
     {
       "uid": "40f34b863a2b96c6",
       "source_id": "korea_univ_adm",
@@ -23,6 +230,28 @@
         "입학/입시"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "eb97ce78c88d75c7",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 올해의 과학교사상 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61815?page=1",
+      "date": "2026-07-01",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
     },
     {
       "uid": "5a26a88f968ee0eb",
@@ -62,6 +291,48 @@
         "입학/입시"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "9eb80109d60ede55",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 디지털새싹 운영기관(새싹 C형) 발표평가 대상 기관 안내",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61804?page=1",
+      "date": "2026-06-30",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "0274bd6866b52e1b",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 서울·인천권 디지털튜터양성센터 선정평가 대상 기관 알림",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61788?page=1",
+      "date": "2026-06-29",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
     },
     {
       "uid": "3f0bf19e48598b52",
@@ -167,6 +438,49 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "1fd3efa9cfd442bf",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 교육기부 우수기관 인증제 공고",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61749?page=1",
+      "date": "2026-06-25",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "채용/공모",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
+      "uid": "d901d440fb001687",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "2026년도 한국정보올림피아드 2차 대회 접수 일정 안내",
+      "link": "https://koi.or.kr/notice/2026/06/22/koi-2026-contest2-reception.html",
+      "date": "2026-06-22",
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
+    },
+    {
       "uid": "513a0989539c8e9e",
       "source_id": "ged",
       "org": "영재교육종합데이터베이스(GED)",
@@ -187,6 +501,48 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "408599d0b3e4a3fa",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 신입생 후기모집 합격자 발표 및 등록금 고지서 출력",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=171287",
+      "date": "2026-06-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "2e8de8f6b196e5e8",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026년 대한민국 정보교육상 면접심사 대상자 안내",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/61602?page=1",
+      "date": "2026-06-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
+    },
+    {
       "uid": "5632d72ce5116d2e",
       "source_id": "gist_main",
       "org": "GIST",
@@ -205,6 +561,185 @@
         "행사/설명회"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "a2031d4dd118cb15",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "2026년도 한국정보올림피아드 1차 대회 상장 배송 안내",
+      "link": "https://koi.or.kr/notice/2026/06/09/koi-2026-contest1-award-certificate.html",
+      "date": "2026-06-09",
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
+    },
+    {
+      "uid": "3bcc193d736e365d",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "[필독] 2027년 제38회 국제생물올림피아드 참가 국가대표 1차후보자 선발고사 범위 및 일정 안내",
+      "link": "https://kbo.bioedu.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=3204&mod=document",
+      "date": "2026-06-04",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:50+00:00"
+    },
+    {
+      "uid": "936313f5f997a407",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2027학년도 대학 신입학생 수시모집 안내",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=170690",
+      "date": "2026-05-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "2a9e9df1fdeafae9",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "2026년도 한국정보올림피아드 1차 대회 최종 결과 발표 안내",
+      "link": "https://koi.or.kr/notice/2026/05/26/koi-2026-contest1-final-results.html",
+      "date": "2026-05-26",
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
+    },
+    {
+      "uid": "22bbc27b17607463",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "2026년도 한국정보올림피아드 1차 대회 가채점 결과 확인 방법",
+      "link": "https://koi.or.kr/notice/2026/05/12/koi-2026-contest1-temporary-results.html",
+      "date": "2026-05-12",
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
+    },
+    {
+      "uid": "ca67b22df9939c87",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] [교육부] 2027학년도 대입전형자료(학교생활기록부) 온라인 제공 계획",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=18243&em=0",
+      "date": "2026-05-08",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "f57f1c084a4a4a7f",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2028학년도 대학 신입학생 입학전형 시행계획 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=168854",
+      "date": "2026-04-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "724c70844e9ed064",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2027학년도 서울대학교 학생부종합전형 안내 책자(점자파일 추가) 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=168638",
+      "date": "2026-04-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "c68f6b0f8e07f409",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[대학입학전형 시행 계획] 2028학년도 대학입학전형 시행계획",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=794&em=0",
+      "date": "2026-04-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
     },
     {
       "uid": "dd118aa8ab21bb63",
@@ -246,6 +781,142 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "176050f891a8c174",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 후기모집 수험표 출력 안내",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=168314",
+      "date": "2026-04-21",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "cba59af555746836",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 신입생 후기모집 인터넷 접수 OPEN",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=167750",
+      "date": "2026-04-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "49eb56e54c85f1a1",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026 수도권 교사 대상 상담소 신청 및 접수 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=167609",
+      "date": "2026-04-08",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "4dde5868b391bd6b",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "[필독] 2027년 38회 IBO 참가 국가대표 지원자 접수 마감 및 원격교육 관련 공지사항 안내입니다.",
+      "link": "https://kbo.bioedu.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=3186&mod=document",
+      "date": "2026-04-06",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:50+00:00"
+    },
+    {
+      "uid": "ac63a7ede52c62f1",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[설명회/지역별 설명회] 2027학년도 POSTECH 서울 지역설명회 신청 안내",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=16679&em=0",
+      "date": "2026-04-01",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "c8c59e920bbcf67e",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "2026년 1~3차 원격교육 일정 및 범위 안내",
+      "link": "https://kbo.bioedu.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=3185&mod=document",
+      "date": "2026-04-01",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:50+00:00"
+    },
+    {
+      "uid": "17c2fb6f91e8ce9b",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2027학년도 대학 신입학생 입학전형 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=167069",
+      "date": "2026-03-31",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
       "uid": "2e68d5d2ce4a3663",
       "source_id": "snu_ug",
       "org": "서울대학교",
@@ -263,6 +934,66 @@
         "입학/입시"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "57f7a2fe0d1b0b2e",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 23~26학년도 POSTECH 입학전형 선행학습 영향평가 결과",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=3138&em=0",
+      "date": "2026-03-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "11adc9b846e3629b",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 신입생 후기모집 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=165989",
+      "date": "2026-03-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "1416c471beea3f2c",
+      "source_id": "kofac",
+      "org": "한국과학창의재단",
+      "org_type": "gov",
+      "title": "2026학년도 진로연계교육 발표대회 안내",
+      "link": "https://www.kofac.re.kr/menus/270/boards/386/posts/60987?page=1",
+      "date": "2026-03-10",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "정책/보도",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:43+00:00"
     },
     {
       "uid": "1050ae45d11bd1c8",
@@ -285,6 +1016,45 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "1e363e017eb3f956",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "공통 2026년 여름학교, 2027년 겨울학교 개최장소 사전 안내 2026-02-26",
+      "link": "https://olympiad.kchem.org/board/article/1637?page=&limit=&searchType=&searchValue=&gnid=notice",
+      "date": "2026-02-26",
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "038e6a6d0324e7af",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "2027년 제38회 국제생물올림피아드(IBO) 국가대표 후보자 지원 안내",
+      "link": "https://kbo.bioedu.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=3174&mod=document",
+      "date": "2026-02-25",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:50+00:00"
+    },
+    {
       "uid": "01c7b1fba84cb98f",
       "source_id": "ged",
       "org": "영재교육종합데이터베이스(GED)",
@@ -305,6 +1075,25 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "12f152ef63c87b95",
+      "source_id": "kbo",
+      "org": "한국생물올림피아드(KBO)",
+      "org_type": "olympiad",
+      "title": "제56, 57기 KBO 겨울학교 교육확인서 발급 안내 (2.24 이후 발급가능)",
+      "link": "https://kbo.bioedu.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?uid=3173&mod=document",
+      "date": "2026-02-23",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "생명과학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:50+00:00"
+    },
+    {
       "uid": "9326fe0c46cb2bf1",
       "source_id": "kbo",
       "org": "한국생물올림피아드(KBO)",
@@ -322,6 +1111,25 @@
         "올림피아드/대회"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "86159011fd2df10d",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 2026학년도 학부 수시모집 합격자 발표 및 등록 일정",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=6030&em=0",
+      "date": "2025-12-12",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
     },
     {
       "uid": "62bad71e103ef0d3",
@@ -362,6 +1170,84 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "3950f894b43afa23",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 2026학년도 1단계 합격자 발표, 2단계 전형(면접) 일정 및 2단계 전형료 납부 안내",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=17139&em=0",
+      "date": "2025-11-14",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "aa7bed1cd43b65eb",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 전기모집 수험표 출력 안내",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=158835",
+      "date": "2025-09-30",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "5ce6c450204b5469",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2028학년도 대학 신입학생 입학전형주요 사항 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=158712",
+      "date": "2025-09-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "45d4076d80ce5e7d",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 2026학년도 재외국민과외국인전형(전과정해외이수자) 원서 접수 안내",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=17098&em=0",
+      "date": "2025-09-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
       "uid": "58388e19d2dfe0f1",
       "source_id": "snu_ug",
       "org": "서울대학교",
@@ -381,6 +1267,65 @@
       "collected_at": "2026-07-14T22:16:10+00:00"
     },
     {
+      "uid": "c7d009b564673e8f",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 2026학년도 POSTECH 입학전형 안내 영상",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=17025&em=0",
+      "date": "2025-09-01",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "46a557de8d8f05fd",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시] 2026학년도 POSTECH 면접 가이드 영상 및 예시문항 소개자료",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=17006&em=0",
+      "date": "2025-08-28",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "83113cc5c2607ba5",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2026학년도 대학원 신입생 전기모집 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=156785",
+      "date": "2025-08-25",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
       "uid": "fad358ccc1742ade",
       "source_id": "kbo",
       "org": "한국생물올림피아드(KBO)",
@@ -398,6 +1343,3374 @@
         "올림피아드/대회"
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
+    },
+    {
+      "uid": "ce00a19210e63b2b",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2025학년도 대학원 신입생 후기모집 충원합격자 발표 및 등록금고지서 출력",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=156657",
+      "date": "2025-08-12",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "debb70146f518f88",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2028학년도 전공 연계 과목 선택 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=156194",
+      "date": "2025-06-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "b92ef4b135046776",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "(수정)2027학년도 대학 신입학생 입학전형 시행계획 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=154588",
+      "date": "2025-04-30",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "73decf0d00cd3ad9",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[대학입학전형 시행 계획] 2027학년도 대학입학전형 시행계획",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=18226&em=0",
+      "date": "2025-03-31",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "8bf08c0435f52bf3",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2025학년도 대학원 신입생 후기모집 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=152938",
+      "date": "2025-03-11",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "e505fcf4b77a9f01",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[입시/2025학년도] 1단계 합격자 발표, 2단계 전형(면접) 일정 및 2단계 전형료 납부 안내",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=4861&em=0",
+      "date": "2024-11-15",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "c53a28390732cc84",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "사범대학교 대학원 협동과정 미술교육전공 영어점수 변경 안내(2025학년도 후기모집부터)",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=148955",
+      "date": "2024-09-02",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "bde7cf7810861481",
+      "source_id": "snu_grad",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "2025학년도 대학원 신입생 전기모집 안내 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/graduate/general/notice?md=v&bbsidx=148953",
+      "date": "2024-09-02",
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:03+00:00"
+    },
+    {
+      "uid": "1f36bc96e4db5a49",
+      "source_id": "postech_ug",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "[설명회/고교방문 설명회] 2026년 고교방문 설명회 신청 안내",
+      "link": "https://adm-u.postech.ac.kr/admission-helper/notices/?pi=2299&em=0",
+      "date": "2024-02-29",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:05+00:00"
+    },
+    {
+      "uid": "a356081abb2b0af1",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "공통 한국화학올림피아드 계절학교 강의 진도표 공지 2023-08-16",
+      "link": "https://olympiad.kchem.org/board/article/1115?page=&limit=&searchType=&searchValue=&gnid=notice",
+      "date": "2023-08-16",
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "faa74afad5cbe7ee",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "공통 화학올림피아드 사회적 배려 대상자 지원 안내 2023-05-16",
+      "link": "https://olympiad.kchem.org/board/article/1103?page=&limit=&searchType=&searchValue=&gnid=notice",
+      "date": "2023-05-16",
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "e548de0126fc2a79",
+      "source_id": "snu_ug",
+      "org": "서울대학교",
+      "org_type": "univ",
+      "title": "서울대학교 교과이수기준(2023학년도 이후) 첨부파일 있음",
+      "link": "https://admission.snu.ac.kr/undergraduate/notice?md=v&bbsidx=130170",
+      "date": "2020-11-26",
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:10:59+00:00"
+    },
+    {
+      "uid": "6b1b76d522fe6752",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "공통 화학올림피아드위원회에서 알리는 글 2012-05-15",
+      "link": "https://olympiad.kchem.org/board/article/822?page=&limit=&searchType=&searchValue=&gnid=notice",
+      "date": "2012-05-15",
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "69be0dffeb4766ef",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "장학 및 생활안내",
+      "link": "https://adm-g.postech.ac.kr/graduate-info/support-policy/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "af888b5c127a8feb",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "온라인 입시설명회",
+      "link": "https://adm-g.postech.ac.kr/promotion/presentation/postech-%eb%8c%80%ed%95%99%ec%9b%90-%ec%98%a8%eb%9d%bc%ec%9d%b8-%ec%9e%85%ec%8b%9c%ec%84%a4%eb%aa%85%ed%9a%8c-2/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "1c0abed6144438bb",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "기관특별영어시험",
+      "link": "http://b2b.toeic.co.kr/postech",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "ae72b972495edca7",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "대학원아파트",
+      "link": "https://www.postech.ac.kr/kor/college-life/apartments.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "29113f17ac1a0bb2",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "친환경소재대학원",
+      "link": "https://adm-g.postech.ac.kr/application02/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "7b6aa9606dd88b94",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "READ MORE",
+      "link": "https://adm-g.postech.ac.kr/promotion/presentation-department/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "80f455771b6464a4",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "친환경소재대학원",
+      "link": "https://adm-g.postech.ac.kr/graduate-info/support-policy-2/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "08230a409dbfb84f",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "READ MORE",
+      "link": "https://www.postech.ac.kr/kor/college-life/dormitory.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "2dc173055ac52b2b",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "영리목적의 광고성 정보전송거부",
+      "link": "https://postech.ac.kr/kor/usage-guide/opt-out_of_commercial_ads.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "21b0094107e7fd9e",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "저작권 정책",
+      "link": "https://postech.ac.kr/kor/usage-guide/copyright_policy.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시",
+        "정책/보도"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "83c12d70da11601d",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "신소재공학과",
+      "link": "https://mse.postech.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "7a05518aa23925c5",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "산업경영공학과",
+      "link": "https://ime.postech.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "3e5dc51093ba12a3",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "전자전기공학과",
+      "link": "https://ee.postech.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "20dc7af66b19444b",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "컴퓨터공학과",
+      "link": "https://cse.postech.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "1a6abbe28bf049a7",
+      "source_id": "postech_grad",
+      "org": "POSTECH",
+      "org_type": "univ",
+      "title": "창의IT융합공학과",
+      "link": "http://cite.postech.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:08+00:00"
+    },
+    {
+      "uid": "d2ca050c36d1edf7",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Undergraduate Admissions",
+      "link": "https://www.unist.ac.kr/admission-eng/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "3d2d379a689b3e6c",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 입학",
+      "link": "https://adm-g.unist.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "e79670e5eed37a75",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Why UNIST",
+      "link": "https://adm-u.unist.ac.kr/admission/introduction/unist-overview.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "a4212b00adfbcc53",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "프로그램 신청",
+      "link": "https://adm-u.unist.ac.kr/admission/application/application.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "d23060187bcdb064",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST 웹진",
+      "link": "https://webzine.unist.ac.kr",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "3ec128a375edb735",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "입학안내 영상",
+      "link": "https://adm-u.unist.ac.kr/admission/introduction/video.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "e443a6a121a2900f",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "과학영재 선발",
+      "link": "https://adm-u.unist.ac.kr/admission/guide/science-talents.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "eaf84256cc8e7b07",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Undergraduate Admissions",
+      "link": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "fff001a2343b443d",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "과학영재 선발",
+      "link": "https://adm-u.unist.ac.kr/admission/community/science-talents.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "de19fbb35790fdac",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "권역별 입학설명회",
+      "link": "https://adm-u.unist.ac.kr/admission/application/admission-information.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "9f4d87f2146b7b0b",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "찾아가는 고교 입학설명회",
+      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-entrance-information.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "0e7c2ae91996ba90",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "고교생 본원 방문 프로그램",
+      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-student-visit.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "b79831de11631242",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "재학생 모교 방문",
+      "link": "https://adm-u.unist.ac.kr/admission/application/old-school.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "b55cdf08af44fcd0",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Explorer@UNIST",
+      "link": "https://adm-u.unist.ac.kr/admission/application/eu-application.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "bbf562ea8b0e827e",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "E@U 접수확인",
+      "link": "https://adm-u.unist.ac.kr/admission/application/eu-receipt-confirmation.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:11+00:00"
+    },
+    {
+      "uid": "c8e21e554c630530",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Graduate Admissions",
+      "link": "https://adm-g.unist.ac.kr/admg-eng/index.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "92737eba839702cd",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 소개",
+      "link": "https://adm-g.unist.ac.kr/admg/intro/graduate-school.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "8301d119621c76a9",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Steps to Apply",
+      "link": "https://adm-g.unist.ac.kr/admg/apply/step-to-apply.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "e45fd5556848b585",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 학사",
+      "link": "https://www.unist.ac.kr/unist/education/academic/grad-registration.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "810c7a781d48df96",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 장학",
+      "link": "https://www.unist.ac.kr/unist/admissions/scholarship-info-grad.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "06548f8eb8c9ff87",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST CAMPUS LIFE",
+      "link": "https://www.unist.ac.kr/unist/life/dormitory.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "63d2824009909f8c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST NEWS",
+      "link": "https://www.unist.ac.kr/unist/center/resualt.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "7a4ee85aae0a59cc",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "U-SURF/WURF",
+      "link": "https://adm-g.unist.ac.kr/admg/program/uswurf.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "1ea5731fe8f340c3",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "OPEN-LAB",
+      "link": "https://adm-g.unist.ac.kr/admg/program/open-lab.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "60a37e8572412c3c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Grad Meet 입학간담회",
+      "link": "https://adm-g.unist.ac.kr/admg/program/visiting-admissions.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "6c26d503e9afd78d",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "온/오프라인 입학설명회",
+      "link": "https://adm-g.unist.ac.kr/admg/program/admissions.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "fb960357f3af0cb7",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "나의 신청현황",
+      "link": "https://adm-g.unist.ac.kr/admg/program/application-status.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "6c48ed08de42b76c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 행사",
+      "link": "https://adm-g.unist.ac.kr/admg/community/news.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "74167f9408f9755f",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Contact us",
+      "link": "https://adm-g.unist.ac.kr/admg/community/contact-us.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "2a940ceeea6694ea",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "SEARCH",
+      "link": "https://adm-g.unist.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:13+00:00"
+    },
+    {
+      "uid": "5e920e6c599d18f7",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Notice",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0401.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "3ab2232be6e6552a",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "입학프로그램",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0601.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "84a07e69eaf468f9",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "봄학기 1차",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010101.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "3ca24dd7ead77b19",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "봄학기 2차",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010201.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "f9e1b02cbdffe381",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010103.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "5fe165200e2019e9",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010203.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "f72083b7cb98ee8e",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010303.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "7c79107d2e077fda",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "국비·과기원 장학",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub02/0201.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "736e9abba3324d41",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "연구실 소개집",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub03/0306.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "b3c792778bf6477f",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Contact Us",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0407.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "cab55d5de0f6e425",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "대학원생 e-멘토",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0604.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "4cde79913657c886",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "[서류합격자 발표 및 구술전형 안내] 2027학년도 봄학기 1차 ... GIST 대학원에 관심 갖고 지원해 주신 여러분들께 감사드립니다. 서류 합격자 발표는 7월 15일(수) 17:00 ~ 22일(수)... 2026-07 14",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=222298",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "0dc49fafe6a27af2",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "※ 지스트 대학원 「랩 배정 방식」안내(2026년 7월 기준) [ 지스트 대학원 「랩 배정 방식」안내 ] ※랩 배정 방식 관련한 문의사항은 아래 학과 연락처로 문의바랍니... 2025-02 25",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216696",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "59bd410078c57a73",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "※ 지스트 대학원 「사전 컨택」안내(2026년 7월 기준) [ 지스트 대학원 「사전 컨택」안내 ] ▶ 필수인 경우, 원서접수 마감일 전까지 사전컨택 하여야 합니다. ... 2025-02 25",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216694",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:17+00:00"
+    },
+    {
+      "uid": "e10a66c65398cd9c",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "신입생Click!",
+      "link": "https://www.gist.ac.kr/kr/html/sub05/0509.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "d622ad992a1298bb",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Portal",
+      "link": "https://portal.gist.ac.kr/login.jsp",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "954e8d4015c576b5",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GIST 홀딩스",
+      "link": "https://gistholdings.com/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "53aaae95d1dd6182",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "About GIST",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/0102.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "f24408291588a341",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GISTian",
+      "link": "https://www.gist.ac.kr/kr/html/sub06/060101.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "64e0096d4615565c",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "공익신고센터",
+      "link": "https://www.gist.ac.kr/kr/html/sub10/1004.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "baaec7df199c3f69",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GIST 홀딩스",
+      "link": "http://gistholdings.com",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "5aff00487b7d8ccc",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "조직/직원안내",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010601.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "30d60174ec08298e",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 위원회 및 전략",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010901.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "89da53cc43f2330e",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 보고서",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010902.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "d8fd6ebce60a68b4",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 게시판",
+      "link": "https://www.gist.ac.kr/bbs/?code=010903&site_dvs_cd=kr&menu_dvs_cd=010903",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "6315ca872bda8dcd",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "사진으로 보는 GIST",
+      "link": "https://www.gist.ac.kr/bbs/?code=010307&site_dvs_cd=kr&menu_dvs_cd=010307",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "5de70c10de2a965f",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "UI/브랜드",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/01030301.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "a4fd7af9515f4164",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "3D 캠퍼스맵",
+      "link": "https://www.gist.ac.kr/cyber/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "fa8af2854413e7eb",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "찾아오시는길",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010305.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:11:21+00:00"
+    },
+    {
+      "uid": "a4165df3a1718198",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "신청 및 조회",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=1680",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "c14ab210dc434078",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "모집요강(전기)",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=690",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "88ff16390d66a879",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "모집요강(후기)",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=1370",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "b40db673daed39d4",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "통합 공지사항",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=750",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "0a0e6530bc2acd56",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "전년도 모집요강",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=740",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "420cacd62a667506",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "입시 관련 영상",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=760",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "2d672c1e531d14ab",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "입학처 규정",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=1400",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "d3919b0e5366a254",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "동영상 강의",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=810",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "2614d5252d862489",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "성적표 리포팅 도착확인",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=1010",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "de4e11c200fbce2f",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "고교별 합격자 조회",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=1000",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "18e4f69e051a515e",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "International Students",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=700",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "42d412ecbae18207",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "다양한 전공제도",
+      "link": "https://registrar.korea.ac.kr/eduinfo/info/major_double.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "a9d3da6d716cbb69",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "견학프로그램",
+      "link": "https://tour.korea.ac.kr/tour/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "ef77853b86722b50",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "입학처 오시는 길",
+      "link": "https://oku.korea.ac.kr/oku/cms/FR_CON/index.do?MENU_ID=880",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "0f6f4d7726edea9c",
+      "source_id": "korea_univ_adm",
+      "org": "고려대학교",
+      "org_type": "univ",
+      "title": "서울캠퍼스 입학처",
+      "link": "https://oku.korea.ac.kr/oku/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:27+00:00"
+    },
+    {
+      "uid": "2486d39b27feb4b4",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "ENGLISH",
+      "link": "https://ksa.hs.kr/Eng",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "4cb61ae2c8eb6d99",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "학교장 인사말",
+      "link": "https://ksa.hs.kr/Home/Sub/194",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "1ebc8f236333326d",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "비전 및 교육목표",
+      "link": "https://ksa.hs.kr/Home/Sub/3",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "b688a7cffc7be341",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "비전 및 교육목표",
+      "link": "https://ksa.hs.kr/Home/Sub/214",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "fdfe058822a899d9",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "KSA Video",
+      "link": "https://ksa.hs.kr/Home/Board/186",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "f6baf207d19fd3cb",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "KSA 20주년 기념 엠블럼",
+      "link": "https://ksa.hs.kr/Home/Sub/208",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "47d1d4948f3ac00c",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "장학금 수혜 현황",
+      "link": "https://ksa.hs.kr/Home/Sub/18",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "d299931c87494474",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "언론보도/ Media Report",
+      "link": "https://ksa.hs.kr/Home/Board/181",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "f0e9e6ea2c881eb3",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "창의·연구활동",
+      "link": "https://ksa.hs.kr/Home/Sub/29",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "85c4fe2fb0530428",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "국제학술교류",
+      "link": "https://ksa.hs.kr/Home/Sub/35",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "e02b96bd81b30dbe",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "역량중심 리더십활동",
+      "link": "https://ksa.hs.kr/Home/Sub/39",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "81551180f18f47e3",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "특별프로그램",
+      "link": "https://ksa.hs.kr/Home/Sub/42",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "56c8f475a463374c",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "제5차 교육과정",
+      "link": "https://ksa.hs.kr/Home/Sub/131",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "c00329ec4f0638d6",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "제6차 교육과정",
+      "link": "https://ksa.hs.kr/Home/Sub/215",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "d6a22ca6b7eb8b91",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "창의·연구활동",
+      "link": "https://ksa.hs.kr/Home/Sub/30",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-07-15T14:11:31+00:00"
+    },
+    {
+      "uid": "44c55c456ca09db1",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "한국의 영재교육",
+      "link": "https://ged.kedi.re.kr/intro/ged/intro1s1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "9fcb8d2bf713df3f",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "학생자기진단",
+      "link": "https://ged.kedi.re.kr/diag/diagStd1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "3e9257b52ceac3be",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "교사관찰진단",
+      "link": "https://ged.kedi.re.kr/diag/diagTch1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "e532ac06830b5e0b",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "온라인 선교육",
+      "link": "https://ged.kedi.re.kr/lms/preeduList.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "f56429c63e9e60c7",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "학교추천위원회",
+      "link": "https://ged.kedi.re.kr/cmt/cmtApplStdtForm.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "034371f51bbc0531",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "선정심사위원회",
+      "link": "https://ged.kedi.re.kr/sel/slctNotiMngView.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "ba4e35f1112d611c",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "국가영재교육프로그램기준",
+      "link": "https://ged.kedi.re.kr/intro/course/prostandard1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "2c96939849d9ee6f",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "영재교육종합자료실",
+      "link": "https://ged.kedi.re.kr/archives/archivesList.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "a53c6bd42d0a15f0",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "영재수업 이야기",
+      "link": "https://ged.kedi.re.kr/intro/course/confcVideo.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "6af8fd893b0f9ed0",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "역량중심영재교육프로그램",
+      "link": "https://ged.kedi.re.kr/course/index.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "a115e17f39bde29f",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "온라인영재교육프로그램",
+      "link": "https://ged.kedi.re.kr/lms/lmsIndex.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "a1ff110abfbc3737",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "영재교육기관알리미",
+      "link": "https://ged.kedi.re.kr/eduIns/eduInsList.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "b22e53ce3b0281ad",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "재능계발 탐색영재교육 선도학교",
+      "link": "https://ged.kedi.re.kr/lead/ldSchIntro1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "4709bbb53a7ab49d",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "영재교육국가통계",
+      "link": "https://ged.kedi.re.kr/intro/stss/statNew1.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "2dcda01746ca6615",
+      "source_id": "ged",
+      "org": "영재교육종합데이터베이스(GED)",
+      "org_type": "gov",
+      "title": "국가창의인재",
+      "link": "https://ged.kedi.re.kr/nata/index.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:13+00:00"
+    },
+    {
+      "uid": "74f7b11b7ac4dd48",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "찾아오는 길",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000139/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "2418e2398f653e82",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "체험학습장 안내",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000223/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "c011e3a562e06dbc",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "예약 및 신청",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000202/link/list0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "3e389c0f0c2aead0",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "K-STEM Bank",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000349/gyoguIntro.do?board_id=ssp",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "95878b9d28a33927",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "OPEN-LAB",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000086/board/BO00000122/CD00000262/list0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "70f2fb3273e60a5e",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "과학경진대회",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000068/board/BO00000127/ctgynone/list0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "63a07215be675743",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "학생교육 전체보기",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000064/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "dc5f180c9dbb1549",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "메이커 스페이스",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000256/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "7ed0326d60b2ef21",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "서울과학교육",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000024/board/BO00000135/ctgynone/list0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "76c178b6523aa926",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "과학교육자료실",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000025/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "b7c3a0f6c9417d05",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "과학교육정보 나눔방",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000026/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "7c8d36d9ca76ef09",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "자주묻는질문",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000029/board/BO00000124/ctgynone/list0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "a636c3163d4b8d6a",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "제증명 발급안내",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000031/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "0b971584a4255f2c",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "행정정보공개",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000126/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "f0d0fb5e43051735",
+      "source_id": "seoul_ssei",
+      "org": "서울시교육청 융합과학교육원",
+      "org_type": "gifted_center",
+      "title": "행정서비스헌장",
+      "link": "https://ssei.sen.go.kr/fus/MI000000000000000131/html/cont0010v.do",
+      "date": null,
+      "grade": [
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육"
+      ],
+      "collected_at": "2026-07-15T14:12:16+00:00"
+    },
+    {
+      "uid": "aa60be980dff170d",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "[2026 통신교육] 일반물리 통신교육 평가 일정 변경 안내 (11/14 ➡️ 11/21)",
+      "link": "https://newkpho.kps.or.kr/notice/notice_detail/377",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "aa046a84286c6ea1",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2026년 물리올림피아드 연간 일정 안내(07.07수정)",
+      "link": "https://newkpho.kps.or.kr/notice/notice_detail/346",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "b44c9e74f36f05bb",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "★2026년 제1회 물리대회 홈페이지★",
+      "link": "https://newkpho.kps.or.kr/notice/notice_detail/345",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "4dda6c9299783945",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "[통신교육 2026] 과제 게시 안내",
+      "link": "https://newkpho.kps.or.kr/notice/notice_detail/368",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "9dccac5cfa29bf74",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "[IPhO 2026] 국가대표 5인 발표",
+      "link": "https://newkpho.kps.or.kr/notice/notice_detail/364",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "9adc805175fd29c9",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2025년 물리올림피아드 일반물리 통신교육 접수",
+      "link": "https://newkpho.kps.or.kr/notice/Schedule_notice_detail/32",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "81030ae0d7b8eb38",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2025년 겨울학교",
+      "link": "https://newkpho.kps.or.kr/notice/Schedule_notice_detail/30",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "ade3829730b95332",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2025년 겨울학교 입교생 모집",
+      "link": "https://newkpho.kps.or.kr/notice/Schedule_notice_detail/28",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "4945b66dea4f059d",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2024년 물리올림피아드 일반물리2 통신교육",
+      "link": "https://newkpho.kps.or.kr/notice/Schedule_notice_detail/27",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "14593ab2db9c124d",
+      "source_id": "kpho",
+      "org": "한국물리올림피아드(KPhO)·한국물리학회",
+      "org_type": "olympiad",
+      "title": "2024년 일반물리2 통신교육 등록",
+      "link": "https://newkpho.kps.or.kr/notice/Schedule_notice_detail/26",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "물리"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:45+00:00"
+    },
+    {
+      "uid": "dd3e297d0ec5d2de",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "국제화학올림피아드(IChO)",
+      "link": "https://olympiad.kchem.org/icho/intro",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "b49ff5083b3cf879",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "한국화학올림피아드(KChO)",
+      "link": "https://olympiad.kchem.org/board/10/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "a516628ca2575115",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "한국중학생화학대회(KMChC)",
+      "link": "https://olympiad.kchem.org/board/11/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "b1f0277318961a86",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "한국출전약사",
+      "link": "https://olympiad.kchem.org/board/16/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "0b4ca9ebad0c45e4",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "접수확인/취소",
+      "link": "https://olympiad.kchem.org/competition/view?type=KChO",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "5c922e47d4fe5449",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "접수확인/취소",
+      "link": "https://olympiad.kchem.org/competition/view?type=KMChC",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "c5e1fbede28316d6",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "수상결과 확인",
+      "link": "https://olympiad.kchem.org/competition/prize?type=KMChC",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "3d691098799fa368",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "대회문제 및 풀이",
+      "link": "https://olympiad.kchem.org/board/17/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "47944f057c81046f",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "계절학교 안내",
+      "link": "https://olympiad.kchem.org/board/12/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "441529116cf29e68",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "온라인 교육 해설 영상",
+      "link": "https://olympiad.kchem.org/board/19/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "e12ccec2d35e0463",
+      "source_id": "kcho",
+      "org": "한국화학올림피아드(KChO)·대한화학회",
+      "org_type": "olympiad",
+      "title": "자주묻는 질문(FAQ)",
+      "link": "https://olympiad.kchem.org/board/group/faq/list",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등"
+      ],
+      "field": [
+        "화학"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:47+00:00"
+    },
+    {
+      "uid": "fe02fead5bfbd837",
+      "source_id": "koi",
+      "org": "한국정보올림피아드(KOI)·한국정보과학회",
+      "org_type": "olympiad",
+      "title": "최종 결과 발표",
+      "link": "https://results.koi.or.kr",
+      "date": null,
+      "grade": [
+        "고등",
+        "중등",
+        "초등"
+      ],
+      "field": [
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "올림피아드/대회"
+      ],
+      "collected_at": "2026-07-15T14:12:51+00:00"
     },
     {
       "uid": "c3293b8c0b276bba",
@@ -536,6 +4849,5 @@
       ],
       "collected_at": "2026-07-14T22:16:10+00:00"
     }
-  ],
-  "note": "이 데이터는 2026-07-15 기준 웹 검색으로 확인한 실제 공지 시드 데이터입니다. scraper/main.py 를 주기적으로 실행하면 이 파일이 자동 갱신됩니다."
+  ]
 }
