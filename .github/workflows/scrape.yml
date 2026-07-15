@@ -1,0 +1,44 @@
+name: 공지사항 자동 수집
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "config/sources.json"
+      - "scraper/**"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 설치
+        run: pip install -r scraper/requirements.txt
+
+      - name: 스크레이퍼 실행 (data/notices.json 갱신)
+        run: python scraper/main.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "science-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/notices.json
+          if git diff --cached --quiet; then
+            echo "변경 없음 (새 공지 없음)"
+          else
+            git commit -m "chore: 공지사항 자동 갱신 [skip ci]"
+            git push
+          fi
