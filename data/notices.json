@@ -1,14 +1,10 @@
 {
-  "generated_at": "2026-08-04T18:15:34+00:00",
+  "generated_at": "2026-08-05T06:15:28+00:00",
   "source_count": 29,
-  "ok_count": 13,
+  "ok_count": 17,
   "failed_sources": [
     "kaist_ug",
     "kaist_grad",
-    "unist_ug",
-    "unist_grad",
-    "gist_grad",
-    "gist_main",
     "dgist_adm",
     "yonsei_adm",
     "sshs",
@@ -41,7 +37,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "4ce5855e4d3a8f6e",
@@ -80,7 +76,7 @@
         "올림피아드/대회",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:15:33+00:00"
+      "collected_at": "2026-08-05T06:15:26+00:00"
     },
     {
       "uid": "b669b92ac0c63fc6",
@@ -237,7 +233,7 @@
         "채용/공모",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "b11f6dda1a7cac6e",
@@ -414,7 +410,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "fe0a6ff933dbe63a",
@@ -455,7 +451,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "102f27b45d9c7e1d",
@@ -496,7 +492,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "78305437219d969a",
@@ -518,7 +514,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "a3101df7dc3d2804",
@@ -540,7 +536,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "c93cd510b1f9ba63",
@@ -562,7 +558,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "9a1916295bcbdec0",
@@ -603,7 +599,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "f3264f743d693e8f",
@@ -625,7 +621,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "4069d8801f144e5d",
@@ -646,7 +642,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "a69110d9172ae95e",
@@ -688,7 +684,7 @@
         "채용/공모",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "ea0cbc8ef3900309",
@@ -729,7 +725,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "b79e4076f2354583",
@@ -1043,7 +1039,7 @@
         "채용/공모",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "d901d440fb001687",
@@ -1064,7 +1060,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "84bc533acbeeb849",
@@ -1144,7 +1140,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "2e8de8f6b196e5e8",
@@ -1166,7 +1162,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "5632d72ce5116d2e",
@@ -1207,7 +1203,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "3bcc193d736e365d",
@@ -1226,7 +1222,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:33+00:00"
+      "collected_at": "2026-08-05T06:15:26+00:00"
     },
     {
       "uid": "936313f5f997a407",
@@ -1245,7 +1241,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "a1aec4015497a204",
@@ -1366,7 +1362,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "f57f1c084a4a4a7f",
@@ -1386,7 +1382,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "724c70844e9ed064",
@@ -1405,7 +1401,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "c68f6b0f8e07f409",
@@ -1425,7 +1421,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "dd118aa8ab21bb63",
@@ -1484,7 +1480,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "3d5e3a8e19b363f3",
@@ -1564,7 +1560,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "49eb56e54c85f1a1",
@@ -1583,7 +1579,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "4dde5868b391bd6b",
@@ -1602,7 +1598,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:33+00:00"
+      "collected_at": "2026-08-05T06:15:26+00:00"
     },
     {
       "uid": "ac63a7ede52c62f1",
@@ -1622,7 +1618,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "c8c59e920bbcf67e",
@@ -1641,7 +1637,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:33+00:00"
+      "collected_at": "2026-08-05T06:15:26+00:00"
     },
     {
       "uid": "17c2fb6f91e8ce9b",
@@ -1660,7 +1656,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "2e68d5d2ce4a3663",
@@ -1698,7 +1694,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "11adc9b846e3629b",
@@ -1718,7 +1714,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "1416c471beea3f2c",
@@ -1739,7 +1735,7 @@
         "정책/보도",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:27+00:00"
+      "collected_at": "2026-08-05T06:14:28+00:00"
     },
     {
       "uid": "1050ae45d11bd1c8",
@@ -1779,7 +1775,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "038e6a6d0324e7af",
@@ -1798,7 +1794,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:33+00:00"
+      "collected_at": "2026-08-05T06:15:26+00:00"
     },
     {
       "uid": "01c7b1fba84cb98f",
@@ -1875,7 +1871,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "62bad71e103ef0d3",
@@ -1932,7 +1928,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "aa7bed1cd43b65eb",
@@ -1953,7 +1949,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "5ce6c450204b5469",
@@ -1972,7 +1968,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "45d4076d80ce5e7d",
@@ -1991,7 +1987,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "58388e19d2dfe0f1",
@@ -2029,7 +2025,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "46a557de8d8f05fd",
@@ -2048,7 +2044,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "83113cc5c2607ba5",
@@ -2069,7 +2065,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "fad358ccc1742ade",
@@ -2108,7 +2104,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "ff076f7413117c9e",
@@ -2147,7 +2143,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "b92ef4b135046776",
@@ -2167,7 +2163,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "73decf0d00cd3ad9",
@@ -2187,7 +2183,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "8bf08c0435f52bf3",
@@ -2207,7 +2203,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "e505fcf4b77a9f01",
@@ -2226,7 +2222,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "c53a28390732cc84",
@@ -2246,7 +2242,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "bde7cf7810861481",
@@ -2267,7 +2263,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:04+00:00"
+      "collected_at": "2026-08-05T06:13:54+00:00"
     },
     {
       "uid": "1f36bc96e4db5a49",
@@ -2287,7 +2283,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:13:07+00:00"
+      "collected_at": "2026-08-05T06:13:56+00:00"
     },
     {
       "uid": "a356081abb2b0af1",
@@ -2307,7 +2303,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "faa74afad5cbe7ee",
@@ -2327,7 +2323,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "a19a266948460ee4",
@@ -2386,7 +2382,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:02+00:00"
+      "collected_at": "2026-08-05T06:13:51+00:00"
     },
     {
       "uid": "af50230dfa1e1b6c",
@@ -2426,7 +2422,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "69be0dffeb4766ef",
@@ -2446,7 +2442,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "af888b5c127a8feb",
@@ -2467,7 +2463,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "1c0abed6144438bb",
@@ -2487,7 +2483,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "ae72b972495edca7",
@@ -2507,7 +2503,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "29113f17ac1a0bb2",
@@ -2527,7 +2523,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "7b6aa9606dd88b94",
@@ -2547,7 +2543,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "80f455771b6464a4",
@@ -2567,7 +2563,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "08230a409dbfb84f",
@@ -2587,7 +2583,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "2dc173055ac52b2b",
@@ -2608,7 +2604,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "21b0094107e7fd9e",
@@ -2629,7 +2625,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "83c12d70da11601d",
@@ -2650,7 +2646,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "7a05518aa23925c5",
@@ -2671,7 +2667,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "3e5dc51093ba12a3",
@@ -2692,7 +2688,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "20dc7af66b19444b",
@@ -2714,7 +2710,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
     },
     {
       "uid": "1a6abbe28bf049a7",
@@ -2735,7 +2731,1197 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:13:10+00:00"
+      "collected_at": "2026-08-05T06:13:58+00:00"
+    },
+    {
+      "uid": "d2ca050c36d1edf7",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Undergraduate Admissions",
+      "link": "https://www.unist.ac.kr/admission-eng/index.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "3d2d379a689b3e6c",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 입학",
+      "link": "https://adm-g.unist.ac.kr/",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "e79670e5eed37a75",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Why UNIST",
+      "link": "https://adm-u.unist.ac.kr/admission/introduction/unist-overview.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "a4212b00adfbcc53",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "프로그램 신청",
+      "link": "https://adm-u.unist.ac.kr/admission/application/application.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "d23060187bcdb064",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST 웹진",
+      "link": "https://webzine.unist.ac.kr",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "3ec128a375edb735",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "입학안내 영상",
+      "link": "https://adm-u.unist.ac.kr/admission/introduction/video.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "e443a6a121a2900f",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "과학영재 선발",
+      "link": "https://adm-u.unist.ac.kr/admission/guide/science-talents.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "eaf84256cc8e7b07",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Undergraduate Admissions",
+      "link": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "fff001a2343b443d",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "과학영재 선발",
+      "link": "https://adm-u.unist.ac.kr/admission/community/science-talents.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "de19fbb35790fdac",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "권역별 입학설명회",
+      "link": "https://adm-u.unist.ac.kr/admission/application/admission-information.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "9f4d87f2146b7b0b",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "찾아가는 고교 입학설명회",
+      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-entrance-information.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "0e7c2ae91996ba90",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "고교생 본원 방문 프로그램",
+      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-student-visit.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "b79831de11631242",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "재학생 모교 방문",
+      "link": "https://adm-u.unist.ac.kr/admission/application/old-school.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "b55cdf08af44fcd0",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Explorer@UNIST",
+      "link": "https://adm-u.unist.ac.kr/admission/application/eu-application.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "bbf562ea8b0e827e",
+      "source_id": "unist_ug",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "E@U 접수확인",
+      "link": "https://adm-u.unist.ac.kr/admission/application/eu-receipt-confirmation.do",
+      "date": null,
+      "grade": [
+        "고등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:01+00:00"
+    },
+    {
+      "uid": "c8e21e554c630530",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "International Graduate Admissions",
+      "link": "https://adm-g.unist.ac.kr/admg-eng/index.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "92737eba839702cd",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 소개",
+      "link": "https://adm-g.unist.ac.kr/admg/intro/graduate-school.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "8301d119621c76a9",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Steps to Apply",
+      "link": "https://adm-g.unist.ac.kr/admg/apply/step-to-apply.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "e45fd5556848b585",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 학사",
+      "link": "https://www.unist.ac.kr/unist/education/academic/grad-registration.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "810c7a781d48df96",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 장학",
+      "link": "https://www.unist.ac.kr/unist/admissions/scholarship-info-grad.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "06548f8eb8c9ff87",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST CAMPUS LIFE",
+      "link": "https://www.unist.ac.kr/unist/life/dormitory.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "63d2824009909f8c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "UNIST NEWS",
+      "link": "https://www.unist.ac.kr/unist/center/resualt.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "7a4ee85aae0a59cc",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "U-SURF/WURF",
+      "link": "https://adm-g.unist.ac.kr/admg/program/uswurf.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "1ea5731fe8f340c3",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "OPEN-LAB",
+      "link": "https://adm-g.unist.ac.kr/admg/program/open-lab.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "60a37e8572412c3c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Grad Meet 입학간담회",
+      "link": "https://adm-g.unist.ac.kr/admg/program/visiting-admissions.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "6c26d503e9afd78d",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "온/오프라인 입학설명회",
+      "link": "https://adm-g.unist.ac.kr/admg/program/admissions.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "fb960357f3af0cb7",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "나의 신청현황",
+      "link": "https://adm-g.unist.ac.kr/admg/program/application-status.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "6c48ed08de42b76c",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "대학원 행사",
+      "link": "https://adm-g.unist.ac.kr/admg/community/news.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "74167f9408f9755f",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "Contact us",
+      "link": "https://adm-g.unist.ac.kr/admg/community/contact-us.do",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "2a940ceeea6694ea",
+      "source_id": "unist_grad",
+      "org": "UNIST",
+      "org_type": "univ",
+      "title": "SEARCH",
+      "link": "https://adm-g.unist.ac.kr",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:03+00:00"
+    },
+    {
+      "uid": "5e920e6c599d18f7",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Notice",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0401.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "3ab2232be6e6552a",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "입학프로그램",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0601.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "84a07e69eaf468f9",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "봄학기 1차",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010101.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "3ca24dd7ead77b19",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "봄학기 2차",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010201.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "f9e1b02cbdffe381",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010103.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "5fe165200e2019e9",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010203.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "f72083b7cb98ee8e",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "모집요강 다운로드",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010303.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "7c79107d2e077fda",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "국비·과기원 장학",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub02/0201.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "736e9abba3324d41",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "연구실 소개집",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub03/0306.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "b3c792778bf6477f",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Contact Us",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0407.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "cab55d5de0f6e425",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "대학원생 e-멘토",
+      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0604.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "7e536580ce7ce615",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "[서류합격자 발표 및 구술전형 안내] 2026학년도 가을학기 ... GIST 대학원에 관심 갖고 지원해 주신 여러분들께 감사드립니다. 서류 합격자 발표는 7월 24일(금) 17:00 ~ 29일(수)... 2026-07 22",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=222410",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "0dc49fafe6a27af2",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "※ 지스트 대학원 「랩 배정 방식」안내(2026년 7월 기준) [ 지스트 대학원 「랩 배정 방식」안내 ] ※랩 배정 방식 관련한 문의사항은 아래 학과 연락처로 문의바랍니... 2025-02 25",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216696",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "59bd410078c57a73",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "※ 지스트 대학원 「사전 컨택」안내(2026년 7월 기준) [ 지스트 대학원 「사전 컨택」안내 ] ▶ 필수인 경우, 원서접수 마감일 전까지 사전컨택 하여야 합니다. ... 2025-02 25",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216694",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "46fcde079c59b330",
+      "source_id": "gist_grad",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "※ 박사학위과정 전문연구요원 제도 안내 박사과정 국비 또는 과기원 장학생으로 최종 합격한 학생은 소정의 절차를 거쳐 병무청 배정인원 범위내에서 ... 2022-01 28",
+      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=204010",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "입학/입시"
+      ],
+      "collected_at": "2026-08-05T06:14:06+00:00"
+    },
+    {
+      "uid": "e10a66c65398cd9c",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "신입생Click!",
+      "link": "https://www.gist.ac.kr/kr/html/sub05/0509.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "d622ad992a1298bb",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "Portal",
+      "link": "https://portal.gist.ac.kr/login.jsp",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "954e8d4015c576b5",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GIST 홀딩스",
+      "link": "https://gistholdings.com/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "53aaae95d1dd6182",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "About GIST",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/0102.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "f24408291588a341",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GISTian",
+      "link": "https://www.gist.ac.kr/kr/html/sub06/060101.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "64e0096d4615565c",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "공익신고센터",
+      "link": "https://www.gist.ac.kr/kr/html/sub10/1004.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "baaec7df199c3f69",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "GIST 홀딩스",
+      "link": "http://gistholdings.com",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "5aff00487b7d8ccc",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "조직/직원안내",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010601.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "30d60174ec08298e",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 위원회 및 전략",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010901.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "89da53cc43f2330e",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 보고서",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010902.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "d8fd6ebce60a68b4",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "ESG 게시판",
+      "link": "https://www.gist.ac.kr/bbs/?code=010903&site_dvs_cd=kr&menu_dvs_cd=010903",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "6315ca872bda8dcd",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "사진으로 보는 GIST",
+      "link": "https://www.gist.ac.kr/bbs/?code=010307&site_dvs_cd=kr&menu_dvs_cd=010307",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "5de70c10de2a965f",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "UI/브랜드",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/01030301.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "a4fd7af9515f4164",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "3D 캠퍼스맵",
+      "link": "https://www.gist.ac.kr/cyber/",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
+    },
+    {
+      "uid": "fa8af2854413e7eb",
+      "source_id": "gist_main",
+      "org": "GIST",
+      "org_type": "univ",
+      "title": "찾아오시는길",
+      "link": "https://www.gist.ac.kr/kr/html/sub01/010305.html",
+      "date": null,
+      "grade": [
+        "전체"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "연구/R&E",
+        "행사/설명회"
+      ],
+      "collected_at": "2026-08-05T06:14:09+00:00"
     },
     {
       "uid": "a4165df3a1718198",
@@ -2754,7 +3940,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "c14ab210dc434078",
@@ -2774,7 +3960,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "88ff16390d66a879",
@@ -2793,7 +3979,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "b40db673daed39d4",
@@ -2812,7 +3998,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "0a0e6530bc2acd56",
@@ -2831,7 +4017,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "420cacd62a667506",
@@ -2850,7 +4036,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "2d672c1e531d14ab",
@@ -2869,7 +4055,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "d3919b0e5366a254",
@@ -2888,7 +4074,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "2614d5252d862489",
@@ -2907,7 +4093,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "de4e11c200fbce2f",
@@ -2926,7 +4112,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "18e4f69e051a515e",
@@ -2945,7 +4131,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "42d412ecbae18207",
@@ -2964,7 +4150,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "a9d3da6d716cbb69",
@@ -2983,7 +4169,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "ef77853b86722b50",
@@ -3002,7 +4188,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "0f6f4d7726edea9c",
@@ -3021,7 +4207,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:12+00:00"
+      "collected_at": "2026-08-05T06:14:15+00:00"
     },
     {
       "uid": "2486d39b27feb4b4",
@@ -3041,7 +4227,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "4cb61ae2c8eb6d99",
@@ -3061,7 +4247,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "1ebc8f236333326d",
@@ -3081,7 +4267,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "b688a7cffc7be341",
@@ -3101,7 +4287,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "fdfe058822a899d9",
@@ -3121,7 +4307,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "f6baf207d19fd3cb",
@@ -3141,7 +4327,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "47d1d4948f3ac00c",
@@ -3161,7 +4347,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "d299931c87494474",
@@ -3181,7 +4367,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "f0e9e6ea2c881eb3",
@@ -3201,7 +4387,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "85c4fe2fb0530428",
@@ -3221,7 +4407,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "e02b96bd81b30dbe",
@@ -3241,7 +4427,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "81551180f18f47e3",
@@ -3261,7 +4447,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "56c8f475a463374c",
@@ -3281,7 +4467,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "c00329ec4f0638d6",
@@ -3301,7 +4487,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "d6a22ca6b7eb8b91",
@@ -3321,7 +4507,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-08-04T18:14:15+00:00"
+      "collected_at": "2026-08-05T06:14:18+00:00"
     },
     {
       "uid": "44c55c456ca09db1",
@@ -3341,7 +4527,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "9fcb8d2bf713df3f",
@@ -3361,7 +4547,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "3e9257b52ceac3be",
@@ -3381,7 +4567,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "e532ac06830b5e0b",
@@ -3401,7 +4587,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "f56429c63e9e60c7",
@@ -3421,7 +4607,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "034371f51bbc0531",
@@ -3441,7 +4627,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "ba4e35f1112d611c",
@@ -3461,7 +4647,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "2c96939849d9ee6f",
@@ -3481,7 +4667,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "a53c6bd42d0a15f0",
@@ -3501,7 +4687,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "6af8fd893b0f9ed0",
@@ -3521,7 +4707,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "a115e17f39bde29f",
@@ -3541,7 +4727,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "a1ff110abfbc3737",
@@ -3561,7 +4747,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "b22e53ce3b0281ad",
@@ -3581,7 +4767,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "4709bbb53a7ab49d",
@@ -3601,7 +4787,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "2dcda01746ca6615",
@@ -3621,7 +4807,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:56+00:00"
+      "collected_at": "2026-08-05T06:14:55+00:00"
     },
     {
       "uid": "74f7b11b7ac4dd48",
@@ -3641,7 +4827,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "2418e2398f653e82",
@@ -3662,7 +4848,7 @@
         "영재교육",
         "행사/설명회"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "c011e3a562e06dbc",
@@ -3682,7 +4868,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "3e389c0f0c2aead0",
@@ -3702,7 +4888,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "95878b9d28a33927",
@@ -3722,7 +4908,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "70f2fb3273e60a5e",
@@ -3743,7 +4929,7 @@
         "영재교육",
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "63a07215be675743",
@@ -3763,7 +4949,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "dc5f180c9dbb1549",
@@ -3783,7 +4969,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "7ed0326d60b2ef21",
@@ -3803,7 +4989,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "76c178b6523aa926",
@@ -3823,7 +5009,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "b7c3a0f6c9417d05",
@@ -3844,7 +5030,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "7c8d36d9ca76ef09",
@@ -3864,7 +5050,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "a636c3163d4b8d6a",
@@ -3884,7 +5070,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "0b971584a4255f2c",
@@ -3905,7 +5091,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "f0d0fb5e43051735",
@@ -3925,7 +5111,7 @@
       "category": [
         "영재교육"
       ],
-      "collected_at": "2026-08-04T18:14:59+00:00"
+      "collected_at": "2026-08-05T06:14:58+00:00"
     },
     {
       "uid": "aa60be980dff170d",
@@ -3945,7 +5131,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "aa046a84286c6ea1",
@@ -3965,7 +5151,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "08cb788cf1b2e6d9",
@@ -3985,7 +5171,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "4dda6c9299783945",
@@ -4005,7 +5191,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "9dccac5cfa29bf74",
@@ -4025,7 +5211,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "9adc805175fd29c9",
@@ -4045,7 +5231,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "81030ae0d7b8eb38",
@@ -4065,7 +5251,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "ade3829730b95332",
@@ -4085,7 +5271,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "4945b66dea4f059d",
@@ -4105,7 +5291,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "14593ab2db9c124d",
@@ -4125,7 +5311,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:27+00:00"
+      "collected_at": "2026-08-05T06:15:17+00:00"
     },
     {
       "uid": "dd3e297d0ec5d2de",
@@ -4145,7 +5331,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "b49ff5083b3cf879",
@@ -4165,7 +5351,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "a516628ca2575115",
@@ -4185,7 +5371,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "b1f0277318961a86",
@@ -4205,7 +5391,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "0b4ca9ebad0c45e4",
@@ -4225,7 +5411,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "5c922e47d4fe5449",
@@ -4245,7 +5431,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "c5e1fbede28316d6",
@@ -4265,7 +5451,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "3d691098799fa368",
@@ -4285,7 +5471,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "47944f057c81046f",
@@ -4305,7 +5491,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "441529116cf29e68",
@@ -4325,7 +5511,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "e12ccec2d35e0463",
@@ -4345,7 +5531,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:29+00:00"
+      "collected_at": "2026-08-05T06:15:19+00:00"
     },
     {
       "uid": "fe02fead5bfbd837",
@@ -4366,7 +5552,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-08-04T18:15:34+00:00"
+      "collected_at": "2026-08-05T06:15:28+00:00"
     },
     {
       "uid": "8f812a3f691a8b0f",
@@ -4957,1196 +6143,6 @@
         "입학/입시"
       ],
       "collected_at": "2026-08-04T10:14:15+00:00"
-    },
-    {
-      "uid": "d2ca050c36d1edf7",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "International Undergraduate Admissions",
-      "link": "https://www.unist.ac.kr/admission-eng/index.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "3d2d379a689b3e6c",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "대학원 입학",
-      "link": "https://adm-g.unist.ac.kr/",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "e79670e5eed37a75",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "Why UNIST",
-      "link": "https://adm-u.unist.ac.kr/admission/introduction/unist-overview.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "a4212b00adfbcc53",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "프로그램 신청",
-      "link": "https://adm-u.unist.ac.kr/admission/application/application.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "d23060187bcdb064",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "UNIST 웹진",
-      "link": "https://webzine.unist.ac.kr",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "3ec128a375edb735",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "입학안내 영상",
-      "link": "https://adm-u.unist.ac.kr/admission/introduction/video.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "e443a6a121a2900f",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "과학영재 선발",
-      "link": "https://adm-u.unist.ac.kr/admission/guide/science-talents.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "영재교육",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "eaf84256cc8e7b07",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "International Undergraduate Admissions",
-      "link": "https://admu-intl.unist.ac.kr/admission-eng/admissions/admissions.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "fff001a2343b443d",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "과학영재 선발",
-      "link": "https://adm-u.unist.ac.kr/admission/community/science-talents.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "영재교육",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "de19fbb35790fdac",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "권역별 입학설명회",
-      "link": "https://adm-u.unist.ac.kr/admission/application/admission-information.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "9f4d87f2146b7b0b",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "찾아가는 고교 입학설명회",
-      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-entrance-information.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "0e7c2ae91996ba90",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "고교생 본원 방문 프로그램",
-      "link": "https://adm-u.unist.ac.kr/admission/application/high-school-student-visit.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "b79831de11631242",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "재학생 모교 방문",
-      "link": "https://adm-u.unist.ac.kr/admission/application/old-school.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "b55cdf08af44fcd0",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "Explorer@UNIST",
-      "link": "https://adm-u.unist.ac.kr/admission/application/eu-application.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "bbf562ea8b0e827e",
-      "source_id": "unist_ug",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "E@U 접수확인",
-      "link": "https://adm-u.unist.ac.kr/admission/application/eu-receipt-confirmation.do",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:27+00:00"
-    },
-    {
-      "uid": "c8e21e554c630530",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "International Graduate Admissions",
-      "link": "https://adm-g.unist.ac.kr/admg-eng/index.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "92737eba839702cd",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "대학원 소개",
-      "link": "https://adm-g.unist.ac.kr/admg/intro/graduate-school.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "8301d119621c76a9",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "Steps to Apply",
-      "link": "https://adm-g.unist.ac.kr/admg/apply/step-to-apply.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "e45fd5556848b585",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "대학원 학사",
-      "link": "https://www.unist.ac.kr/unist/education/academic/grad-registration.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "810c7a781d48df96",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "대학원 장학",
-      "link": "https://www.unist.ac.kr/unist/admissions/scholarship-info-grad.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "06548f8eb8c9ff87",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "UNIST CAMPUS LIFE",
-      "link": "https://www.unist.ac.kr/unist/life/dormitory.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "63d2824009909f8c",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "UNIST NEWS",
-      "link": "https://www.unist.ac.kr/unist/center/resualt.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "7a4ee85aae0a59cc",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "U-SURF/WURF",
-      "link": "https://adm-g.unist.ac.kr/admg/program/uswurf.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "1ea5731fe8f340c3",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "OPEN-LAB",
-      "link": "https://adm-g.unist.ac.kr/admg/program/open-lab.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "60a37e8572412c3c",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "Grad Meet 입학간담회",
-      "link": "https://adm-g.unist.ac.kr/admg/program/visiting-admissions.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "6c26d503e9afd78d",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "온/오프라인 입학설명회",
-      "link": "https://adm-g.unist.ac.kr/admg/program/admissions.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "fb960357f3af0cb7",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "나의 신청현황",
-      "link": "https://adm-g.unist.ac.kr/admg/program/application-status.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "6c48ed08de42b76c",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "대학원 행사",
-      "link": "https://adm-g.unist.ac.kr/admg/community/news.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "74167f9408f9755f",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "Contact us",
-      "link": "https://adm-g.unist.ac.kr/admg/community/contact-us.do",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "2a940ceeea6694ea",
-      "source_id": "unist_grad",
-      "org": "UNIST",
-      "org_type": "univ",
-      "title": "SEARCH",
-      "link": "https://adm-g.unist.ac.kr",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:29+00:00"
-    },
-    {
-      "uid": "5e920e6c599d18f7",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "Notice",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0401.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "3ab2232be6e6552a",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "입학프로그램",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0601.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "84a07e69eaf468f9",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "봄학기 1차",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010101.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "3ca24dd7ead77b19",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "봄학기 2차",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010201.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "f9e1b02cbdffe381",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "모집요강 다운로드",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010103.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "5fe165200e2019e9",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "모집요강 다운로드",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010203.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "f72083b7cb98ee8e",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "모집요강 다운로드",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub01/010303.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "7c79107d2e077fda",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "국비·과기원 장학",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub02/0201.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "736e9abba3324d41",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "연구실 소개집",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub03/0306.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "b3c792778bf6477f",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "Contact Us",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub04/0407.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "cab55d5de0f6e425",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "대학원생 e-멘토",
-      "link": "https://ewww.gist.ac.kr/gadm/html/sub06/0604.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "7e536580ce7ce615",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "[서류합격자 발표 및 구술전형 안내] 2026학년도 가을학기 ... GIST 대학원에 관심 갖고 지원해 주신 여러분들께 감사드립니다. 서류 합격자 발표는 7월 24일(금) 17:00 ~ 29일(수)... 2026-07 22",
-      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=222410",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "0dc49fafe6a27af2",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "※ 지스트 대학원 「랩 배정 방식」안내(2026년 7월 기준) [ 지스트 대학원 「랩 배정 방식」안내 ] ※랩 배정 방식 관련한 문의사항은 아래 학과 연락처로 문의바랍니... 2025-02 25",
-      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216696",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "59bd410078c57a73",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "※ 지스트 대학원 「사전 컨택」안내(2026년 7월 기준) [ 지스트 대학원 「사전 컨택」안내 ] ▶ 필수인 경우, 원서접수 마감일 전까지 사전컨택 하여야 합니다. ... 2025-02 25",
-      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=216694",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "46fcde079c59b330",
-      "source_id": "gist_grad",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "※ 박사학위과정 전문연구요원 제도 안내 박사과정 국비 또는 과기원 장학생으로 최종 합격한 학생은 소정의 절차를 거쳐 병무청 배정인원 범위내에서 ... 2022-01 28",
-      "link": "https://www.gist.ac.kr/gadm/html/sub04/0401.html?mode=V&no=204010",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-08-04T10:14:32+00:00"
-    },
-    {
-      "uid": "e10a66c65398cd9c",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "신입생Click!",
-      "link": "https://www.gist.ac.kr/kr/html/sub05/0509.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "d622ad992a1298bb",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "Portal",
-      "link": "https://portal.gist.ac.kr/login.jsp",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "954e8d4015c576b5",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "GIST 홀딩스",
-      "link": "https://gistholdings.com/",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "53aaae95d1dd6182",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "About GIST",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/0102.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "f24408291588a341",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "GISTian",
-      "link": "https://www.gist.ac.kr/kr/html/sub06/060101.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "64e0096d4615565c",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "공익신고센터",
-      "link": "https://www.gist.ac.kr/kr/html/sub10/1004.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "baaec7df199c3f69",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "GIST 홀딩스",
-      "link": "http://gistholdings.com",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "5aff00487b7d8ccc",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "조직/직원안내",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/010601.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "30d60174ec08298e",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "ESG 위원회 및 전략",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/010901.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "89da53cc43f2330e",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "ESG 보고서",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/010902.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "d8fd6ebce60a68b4",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "ESG 게시판",
-      "link": "https://www.gist.ac.kr/bbs/?code=010903&site_dvs_cd=kr&menu_dvs_cd=010903",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "6315ca872bda8dcd",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "사진으로 보는 GIST",
-      "link": "https://www.gist.ac.kr/bbs/?code=010307&site_dvs_cd=kr&menu_dvs_cd=010307",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "5de70c10de2a965f",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "UI/브랜드",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/01030301.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "a4fd7af9515f4164",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "3D 캠퍼스맵",
-      "link": "https://www.gist.ac.kr/cyber/",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
-    },
-    {
-      "uid": "fa8af2854413e7eb",
-      "source_id": "gist_main",
-      "org": "GIST",
-      "org_type": "univ",
-      "title": "찾아오시는길",
-      "link": "https://www.gist.ac.kr/kr/html/sub01/010305.html",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "행사/설명회"
-      ],
-      "collected_at": "2026-08-04T10:14:35+00:00"
     },
     {
       "uid": "67eb3d0b2d72bc8f",
