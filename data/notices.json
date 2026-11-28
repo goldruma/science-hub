@@ -1,8 +1,10 @@
 {
-  "generated_at": "2026-11-28T11:00:53+00:00",
+  "generated_at": "2026-11-28T19:14:27+00:00",
   "source_count": 29,
-  "ok_count": 20,
+  "ok_count": 19,
   "failed_sources": [
+    "kaist_ug",
+    "kaist_grad",
     "postech_grad",
     "dgist_adm",
     "yonsei_adm",
@@ -10,7 +12,6 @@
     "djshs",
     "kofac",
     "nrf",
-    "kmo",
     "kjmo"
   ],
   "item_count": 400,
@@ -33,7 +34,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:48+00:00"
+      "collected_at": "2026-11-28T19:14:20+00:00"
     },
     {
       "uid": "9cfdf1884e7a1dfa",
@@ -53,7 +54,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:48+00:00"
+      "collected_at": "2026-11-28T19:14:20+00:00"
     },
     {
       "uid": "0e86f9f8c7e75038",
@@ -72,7 +73,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "21996410f6f612c9",
@@ -92,7 +93,7 @@
       "category": [
         "정책/보도"
       ],
-      "collected_at": "2026-11-28T11:00:21+00:00"
+      "collected_at": "2026-11-28T19:13:59+00:00"
     },
     {
       "uid": "a28803dc3f9bdd90",
@@ -111,7 +112,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "21339527f4c74a82",
@@ -130,7 +131,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "5a9ede6e4dd60d4d",
@@ -209,7 +210,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "160129e84ec8312c",
@@ -267,7 +268,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "18782f797ef98f2d",
@@ -363,7 +364,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "f6bea749dff5784a",
@@ -382,7 +383,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "f3f4ca218d009027",
@@ -401,7 +402,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "0e957e9130656b1c",
@@ -499,7 +500,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "b32b61d964c2d14d",
@@ -577,7 +578,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:52+00:00"
+      "collected_at": "2026-11-28T19:14:25+00:00"
     },
     {
       "uid": "8670632c219e2522",
@@ -713,7 +714,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "b5cb9267c0cabb3e",
@@ -733,7 +734,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "194011e9420f62da",
@@ -1380,7 +1381,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "10f75486c46e450a",
@@ -1440,7 +1441,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "1e836b508ed12bfe",
@@ -1539,7 +1540,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "eefaca10f6d44762",
@@ -1560,7 +1561,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "87fd5ec1fc3e6af3",
@@ -1620,7 +1621,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "cd752a64595c7b3b",
@@ -1716,7 +1717,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "b981c58af56dda4d",
@@ -1876,7 +1877,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:52+00:00"
+      "collected_at": "2026-11-28T19:14:25+00:00"
     },
     {
       "uid": "ba7f122634e6f2b2",
@@ -1952,7 +1953,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "60fb081afcdac2b2",
@@ -2087,7 +2088,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "ea319239cc96d0b1",
@@ -2259,7 +2260,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:52+00:00"
+      "collected_at": "2026-11-28T19:14:25+00:00"
     },
     {
       "uid": "85ccc3dd4feac726",
@@ -2416,7 +2417,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:41+00:00"
+      "collected_at": "2026-11-28T19:13:12+00:00"
     },
     {
       "uid": "31d5fa6611d11daf",
@@ -2496,7 +2497,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "5f5765b39e1990fe",
@@ -2634,7 +2635,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "d7bb689c236a7126",
@@ -2836,7 +2837,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:52+00:00"
+      "collected_at": "2026-11-28T19:14:25+00:00"
     },
     {
       "uid": "b6ee21e7ec0b0c74",
@@ -2855,7 +2856,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:52+00:00"
+      "collected_at": "2026-11-28T19:14:25+00:00"
     },
     {
       "uid": "1b8247e39ba014aa",
@@ -3532,7 +3533,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "a9ff9df9922e2d57",
@@ -4039,7 +4040,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "4069d8801f144e5d",
@@ -4478,7 +4479,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "eba9dd43a2af884e",
@@ -4498,7 +4499,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "513a0989539c8e9e",
@@ -4760,7 +4761,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "c68f6b0f8e07f409",
@@ -4780,7 +4781,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "f57f1c084a4a4a7f",
@@ -5092,7 +5093,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "11adc9b846e3629b",
@@ -5112,7 +5113,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "1416c471beea3f2c",
@@ -5173,7 +5174,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:50+00:00"
+      "collected_at": "2026-11-28T19:14:22+00:00"
     },
     {
       "uid": "038e6a6d0324e7af",
@@ -5423,7 +5424,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "46a557de8d8f05fd",
@@ -5442,7 +5443,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "83113cc5c2607ba5",
@@ -5463,7 +5464,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "fad358ccc1742ade",
@@ -5522,7 +5523,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "debb70146f518f88",
@@ -5581,7 +5582,7 @@
         "입학/입시",
         "정책/보도"
       ],
-      "collected_at": "2026-11-28T10:59:46+00:00"
+      "collected_at": "2026-11-28T19:13:18+00:00"
     },
     {
       "uid": "8bf08c0435f52bf3",
@@ -5601,7 +5602,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "e505fcf4b77a9f01",
@@ -5640,7 +5641,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "bde7cf7810861481",
@@ -5661,7 +5662,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "85d4f23cd969b334",
@@ -5681,7 +5682,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:44+00:00"
+      "collected_at": "2026-11-28T19:13:15+00:00"
     },
     {
       "uid": "1f36bc96e4db5a49",
@@ -5741,7 +5742,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:50+00:00"
+      "collected_at": "2026-11-28T19:14:22+00:00"
     },
     {
       "uid": "faa74afad5cbe7ee",
@@ -5761,7 +5762,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:50+00:00"
+      "collected_at": "2026-11-28T19:14:22+00:00"
     },
     {
       "uid": "a19a266948460ee4",
@@ -5781,7 +5782,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "f6389c36fb6a0bf6",
@@ -5801,7 +5802,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "e548de0126fc2a79",
@@ -5840,7 +5841,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-26T11:38:09+00:00"
+      "collected_at": "2026-11-28T19:14:16+00:00"
     },
     {
       "uid": "6b1b76d522fe6752",
@@ -5860,597 +5861,7 @@
       "category": [
         "올림피아드/대회"
       ],
-      "collected_at": "2026-11-28T11:00:50+00:00"
-    },
-    {
-      "uid": "8f812a3f691a8b0f",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "예비KAISTian",
-      "link": "https://admission.kaist.ac.kr/undergraduate/kpf",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타",
-        "정보/컴퓨터"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "3b2b1a1095571690",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "창의도전전형",
-      "link": "https://admission.kaist.ac.kr/undergraduate/guide/sub02/ccs",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "ee019f7c04e98b43",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "수능우수자전형",
-      "link": "https://admission.kaist.ac.kr/undergraduate/guide/LateAdmission/sub03",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "a0cd0ded5cabb6a8",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "전형별 경쟁률",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "849480a0afb9ffbe",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2027학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2027",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "6426f6b3c460ec8a",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "창의적글로벌리더",
-      "link": "https://admission.kaist.ac.kr/undergraduate/kpf/sub04",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "a77286ebb9ed54c8",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "면접기출문제",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/sub02",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "d06e0c44e0ba2f07",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "입학관련서식",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/sub03",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "56c3d2f3fcdb7518",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2026학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2026",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "d942188bfd9cc1d7",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2025학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2025",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "974060ed98a8b09d",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2024학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2024",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "1cf64673e7aa638a",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2023학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2023",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "1a79d14b51f4bb30",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "2022학년도",
-      "link": "https://admission.kaist.ac.kr/undergraduate/admission/rsub/2022",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "6714f945a68047d9",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Twitter",
-      "link": "https://twitter.com/kaistpr",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "306c5f3e1139fd2d",
-      "source_id": "kaist_ug",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Instagram",
-      "link": "https://www.instagram.com/official_kaist/",
-      "date": null,
-      "grade": [
-        "고등"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:37+00:00"
-    },
-    {
-      "uid": "33590467b84259a5",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "신입생 및 군학프로그램",
-      "link": "https://admission.kaist.ac.kr/graduate/spring/rsub",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "68b0eff76dac8be9",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "(KAIST석사재학생)석·박통합",
-      "link": "https://admission.kaist.ac.kr/graduate/spring/student",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타",
-        "정보/컴퓨터"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "2a8e6504b1feedc8",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "(KAIST학사재학생)학·석박연계",
-      "link": "https://admission.kaist.ac.kr/graduate/spring/tube",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타",
-        "정보/컴퓨터"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "36c7421f130b2e08",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "신입생 및 군학프로그램",
-      "link": "https://admission.kaist.ac.kr/graduate/fall/freshman",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "5d156379fee38da1",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "(KAIST석사재학생)석·박통합",
-      "link": "https://admission.kaist.ac.kr/graduate/fall/student",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타",
-        "정보/컴퓨터"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "69e9f0f001a6664f",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "(KAIST학사재학생)학·석박연계",
-      "link": "https://admission.kaist.ac.kr/graduate/fall/tube",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타",
-        "정보/컴퓨터"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "9ff490b118b91fc5",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "주요행정부서",
-      "link": "https://admission.kaist.ac.kr/graduate/about/sub03",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "360318d2c83c7dd7",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "찾아오시는 길",
-      "link": "https://admission.kaist.ac.kr/graduate/about/sub04",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "af9d5ea4db9e8096",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "연구분야찾기",
-      "link": "https://admission.kaist.ac.kr/graduate/about/sub05",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "a22406886a5f6371",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "대학·학과소개",
-      "link": "https://admission.kaist.ac.kr/graduate/notice/sub04",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "830a4c3e47d46581",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "YouTube",
-      "link": "https://admission.kaist.ac.kr/graduate/notice/sub03",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "d539b2f459e8721d",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Notice",
-      "link": "https://admission.kaist.ac.kr/graduate/notice",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "72f42026d82f40c9",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Twitter",
-      "link": "https://twitter.com/kaistpr",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "87d5030aabd93b26",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Instagram",
-      "link": "https://www.instagram.com/official_kaist/",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
-    },
-    {
-      "uid": "81555bc923f2d628",
-      "source_id": "kaist_grad",
-      "org": "KAIST",
-      "org_type": "univ",
-      "title": "Facebook",
-      "link": "https://www.facebook.com/KAIST.official",
-      "date": null,
-      "grade": [
-        "전체"
-      ],
-      "field": [
-        "융합/기타"
-      ],
-      "category": [
-        "연구/R&E",
-        "입학/입시"
-      ],
-      "collected_at": "2026-11-28T10:59:39+00:00"
+      "collected_at": "2026-11-28T19:14:22+00:00"
     },
     {
       "uid": "d2ca050c36d1edf7",
@@ -6469,7 +5880,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "3d2d379a689b3e6c",
@@ -6488,7 +5899,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "e79670e5eed37a75",
@@ -6507,7 +5918,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "a4212b00adfbcc53",
@@ -6526,7 +5937,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "d23060187bcdb064",
@@ -6545,7 +5956,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "3ec128a375edb735",
@@ -6564,7 +5975,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "e443a6a121a2900f",
@@ -6584,7 +5995,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "eaf84256cc8e7b07",
@@ -6603,7 +6014,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "fff001a2343b443d",
@@ -6623,7 +6034,7 @@
         "영재교육",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "de19fbb35790fdac",
@@ -6643,7 +6054,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "9f4d87f2146b7b0b",
@@ -6663,7 +6074,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "0e7c2ae91996ba90",
@@ -6682,7 +6093,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "b79831de11631242",
@@ -6701,7 +6112,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "b55cdf08af44fcd0",
@@ -6720,7 +6131,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "bbf562ea8b0e827e",
@@ -6739,7 +6150,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:50+00:00"
+      "collected_at": "2026-11-28T19:13:22+00:00"
     },
     {
       "uid": "c8e21e554c630530",
@@ -6759,7 +6170,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "92737eba839702cd",
@@ -6779,7 +6190,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "8301d119621c76a9",
@@ -6799,7 +6210,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "e45fd5556848b585",
@@ -6819,7 +6230,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "810c7a781d48df96",
@@ -6839,7 +6250,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "06548f8eb8c9ff87",
@@ -6859,7 +6270,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "63d2824009909f8c",
@@ -6879,7 +6290,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "7a4ee85aae0a59cc",
@@ -6899,7 +6310,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "1ea5731fe8f340c3",
@@ -6919,7 +6330,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "60a37e8572412c3c",
@@ -6939,7 +6350,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "6c26d503e9afd78d",
@@ -6960,7 +6371,7 @@
         "입학/입시",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "fb960357f3af0cb7",
@@ -6980,7 +6391,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "6c48ed08de42b76c",
@@ -7000,7 +6411,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "74167f9408f9755f",
@@ -7020,7 +6431,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "2a940ceeea6694ea",
@@ -7040,7 +6451,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:52+00:00"
+      "collected_at": "2026-11-28T19:13:24+00:00"
     },
     {
       "uid": "5e920e6c599d18f7",
@@ -7060,7 +6471,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "3ab2232be6e6552a",
@@ -7080,7 +6491,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "84a07e69eaf468f9",
@@ -7100,7 +6511,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "3ca24dd7ead77b19",
@@ -7120,7 +6531,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "f9e1b02cbdffe381",
@@ -7140,7 +6551,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "5fe165200e2019e9",
@@ -7160,7 +6571,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "f72083b7cb98ee8e",
@@ -7180,7 +6591,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "7c79107d2e077fda",
@@ -7200,7 +6611,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "736e9abba3324d41",
@@ -7220,7 +6631,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "b3c792778bf6477f",
@@ -7240,7 +6651,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "cab55d5de0f6e425",
@@ -7260,7 +6671,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "347a01ee797b92fe",
@@ -7280,7 +6691,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "0c2d625cda762934",
@@ -7300,7 +6711,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "0dc49fafe6a27af2",
@@ -7320,7 +6731,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "421ab5bdb5064245",
@@ -7340,7 +6751,7 @@
         "연구/R&E",
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T10:59:57+00:00"
+      "collected_at": "2026-11-28T19:13:29+00:00"
     },
     {
       "uid": "e10a66c65398cd9c",
@@ -7360,7 +6771,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "d622ad992a1298bb",
@@ -7380,7 +6791,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "954e8d4015c576b5",
@@ -7400,7 +6811,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "202d21c9cfe198a5",
@@ -7420,7 +6831,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "f7397b96413df419",
@@ -7440,7 +6851,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "18694536c54f7af0",
@@ -7460,7 +6871,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "da773cadb479bd73",
@@ -7480,7 +6891,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "53aaae95d1dd6182",
@@ -7500,7 +6911,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "f24408291588a341",
@@ -7520,7 +6931,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "64e0096d4615565c",
@@ -7540,7 +6951,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "baaec7df199c3f69",
@@ -7560,7 +6971,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "5aff00487b7d8ccc",
@@ -7580,7 +6991,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "30d60174ec08298e",
@@ -7600,7 +7011,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "89da53cc43f2330e",
@@ -7620,7 +7031,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "d8fd6ebce60a68b4",
@@ -7640,7 +7051,7 @@
         "연구/R&E",
         "행사/설명회"
       ],
-      "collected_at": "2026-11-28T11:00:01+00:00"
+      "collected_at": "2026-11-28T19:13:33+00:00"
     },
     {
       "uid": "a4165df3a1718198",
@@ -7659,7 +7070,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "c14ab210dc434078",
@@ -7679,7 +7090,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "88ff16390d66a879",
@@ -7698,7 +7109,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "b40db673daed39d4",
@@ -7717,7 +7128,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "0a0e6530bc2acd56",
@@ -7736,7 +7147,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "420cacd62a667506",
@@ -7755,7 +7166,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "2d672c1e531d14ab",
@@ -7774,7 +7185,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "d3919b0e5366a254",
@@ -7793,7 +7204,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "2614d5252d862489",
@@ -7812,7 +7223,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "de4e11c200fbce2f",
@@ -7831,7 +7242,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "18e4f69e051a515e",
@@ -7850,7 +7261,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "42d412ecbae18207",
@@ -7869,7 +7280,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "a9d3da6d716cbb69",
@@ -7888,7 +7299,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "ef77853b86722b50",
@@ -7907,7 +7318,7 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
     },
     {
       "uid": "0f6f4d7726edea9c",
@@ -7926,7 +7337,611 @@
       "category": [
         "입학/입시"
       ],
-      "collected_at": "2026-11-28T11:00:06+00:00"
+      "collected_at": "2026-11-28T19:13:39+00:00"
+    },
+    {
+      "uid": "2486d39b27feb4b4",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "ENGLISH",
+      "link": "https://ksa.hs.kr/Eng",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "4cb61ae2c8eb6d99",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "학교장 인사말",
+      "link": "https://ksa.hs.kr/Home/Sub/194",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "1ebc8f236333326d",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "비전 및 교육목표",
+      "link": "https://ksa.hs.kr/Home/Sub/3",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "b688a7cffc7be341",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "비전 및 교육목표",
+      "link": "https://ksa.hs.kr/Home/Sub/214",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "fdfe058822a899d9",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "KSA Video",
+      "link": "https://ksa.hs.kr/Home/Board/186",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "f6baf207d19fd3cb",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "KSA 20주년 기념 엠블럼",
+      "link": "https://ksa.hs.kr/Home/Sub/208",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "47d1d4948f3ac00c",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "장학금 수혜 현황",
+      "link": "https://ksa.hs.kr/Home/Sub/18",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "d299931c87494474",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "언론보도/ Media Report",
+      "link": "https://ksa.hs.kr/Home/Board/181",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "f0e9e6ea2c881eb3",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "창의·연구활동",
+      "link": "https://ksa.hs.kr/Home/Sub/29",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "85c4fe2fb0530428",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "국제학술교류",
+      "link": "https://ksa.hs.kr/Home/Sub/35",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "e02b96bd81b30dbe",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "역량중심 리더십활동",
+      "link": "https://ksa.hs.kr/Home/Sub/39",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "81551180f18f47e3",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "특별프로그램",
+      "link": "https://ksa.hs.kr/Home/Sub/42",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "56c8f475a463374c",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "제5차 교육과정",
+      "link": "https://ksa.hs.kr/Home/Sub/131",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "c00329ec4f0638d6",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "제6차 교육과정",
+      "link": "https://ksa.hs.kr/Home/Sub/215",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "d6a22ca6b7eb8b91",
+      "source_id": "ksa",
+      "org": "한국과학영재학교(KSA)",
+      "org_type": "gifted_school",
+      "title": "창의·연구활동",
+      "link": "https://ksa.hs.kr/Home/Sub/30",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:43+00:00"
+    },
+    {
+      "uid": "4813b87489ef06cc",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "학교교육과정",
+      "link": "https://sshs.sen.hs.kr/210496/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "0248a9458e17c96b",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "학교운영정보",
+      "link": "https://sshs.sen.hs.kr/120326/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타",
+        "정보/컴퓨터"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "93bd85f64b8fb636",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "발명교육센터",
+      "link": "https://sshs.sen.hs.kr/185827/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "2a22ce1fa54e4b39",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "ENGLISH",
+      "link": "https://sshs.sen.hs.kr/210551/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "eafc296f47b010a8",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "교직원 인사말",
+      "link": "https://sshs.sen.hs.kr/75046/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "60edcbd10cb71ad9",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "교육목표 및 인재상",
+      "link": "https://sshs.sen.hs.kr/210492/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "113757b2f3b379b3",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "가정통신문(교육청)",
+      "link": "https://sshs.sen.hs.kr/195319/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "8e0238d314e10fbb",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "급식 게시판",
+      "link": "https://sshs.sen.hs.kr/120324/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "00d47bf32ac7fe5b",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "교육과정 편제표",
+      "link": "https://sshs.sen.hs.kr/210494/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "593c64731bb2fb4f",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "SSHS과학탐구논총",
+      "link": "https://sshs.sen.hs.kr/208066/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "d12dc5f56061a9d5",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "교수학습센터",
+      "link": "https://sshs.sen.hs.kr/203003/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "수학",
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "46f4200eaba28584",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "학교발전기금",
+      "link": "https://sshs.sen.hs.kr/120327/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "50ff44b959f8ec27",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "학교발전기금 기탁현황",
+      "link": "https://sshs.sen.hs.kr/203765/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "공학",
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "6b8b4dd9f6acfd6f",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "학교회계 예결산",
+      "link": "https://sshs.sen.hs.kr/120328/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
+    },
+    {
+      "uid": "7e78ff09325c9e10",
+      "source_id": "sshs",
+      "org": "서울과학고등학교",
+      "org_type": "gifted_school",
+      "title": "수익자부담경비",
+      "link": "https://sshs.sen.hs.kr/120329/subMenu.do",
+      "date": null,
+      "grade": [
+        "중등"
+      ],
+      "field": [
+        "융합/기타"
+      ],
+      "category": [
+        "영재교육",
+        "입학/입시"
+      ],
+      "collected_at": "2026-11-28T19:13:48+00:00"
     }
   ]
 }
